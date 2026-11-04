@@ -19,22 +19,28 @@
 
 ## 👋 About Me
 
-I'm a **B.Tech Computer Science student** working toward a career in **AI Engineering**, with a particular interest in **Applied AI and Generative AI**.
+I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science student (Class of 2028)** from India, building my skills toward a career in **AI Engineering**, with a focus on **Applied AI and Generative AI**.
 
-I enjoy learning by building: understanding a problem, creating a working application, testing it, and improving it. My current portfolio includes projects in AI-assisted resume parsing and Python-based productivity tools.
+I’m interested in turning AI capabilities into practical software: applications that use machine-learning models, LLMs, tools and well-designed workflows to solve real problems. I learn by combining fundamentals with hands-on projects, testing what I build and improving it step by step.
+
+- 🎓 Computer Science undergraduate, currently strengthening my software and AI foundations.
+- 🧠 Exploring Machine Learning, Generative AI, LLM applications and AI agents.
+- 🛠️ Interested in building useful projects with Python and AI-assisted development tools.
+- 🌱 Sharing my learning journey and technical interests through GitHub and Medium.
 
 ## 🎯 Career Direction — Aspiring AI Engineer
 
-**My target role:** AI Engineer focused on **Applied AI, Generative AI and LLM-powered applications**.
+**Target role:** **Aspiring AI Engineer | Applied AI & Generative AI**
 
-The kind of work I’m preparing for:
-- **Build AI-powered applications:** turn AI capabilities into useful software features and user-facing workflows.
-- **Work with machine-learning foundations:** understand data, model behavior and evaluation so I can use ML components responsibly.
-- **Develop LLM applications:** integrate language models into applications and improve the quality and usefulness of their outputs.
-- **Explore AI agents and automation:** create workflows where models can use tools and complete multi-step tasks.
-- **Improve reliability:** experiment with prompt design, evaluation loops and harness-engineering concepts.
+I’m preparing for entry-level AI engineering opportunities focused on building and integrating AI into real applications. My direction includes:
 
-I’m still developing these capabilities through study and projects. This describes the role I’m working toward, not professional experience I’m claiming.
+- **Applied AI development:** building software features around models, APIs and real user needs.
+- **Generative AI & LLM applications:** integrating language models into useful, testable application workflows.
+- **AI agents & automation:** exploring tool use and multi-step task workflows.
+- **ML foundations:** learning the concepts, data preparation and evaluation needed to understand model behavior.
+- **Reliable AI systems:** developing good habits around prompt design, testing, evaluation and the engineering harness around AI workflows.
+
+I’m currently learning and building toward this role; I’m not presenting these areas as professional experience.
 
 ## 🧰 Technical Skills
 
@@ -58,16 +64,42 @@ These are the technologies I currently have familiarity with or have practiced.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## 🔭 Current Learning Focus
+## 🧭 Current Focus
 
-| Area | What I'm exploring |
+| Area | Current direction |
 |---|---|
-| Machine Learning | Core concepts, data preparation and model evaluation |
-| Generative AI | LLM fundamentals and practical use cases |
-| LLM Applications | Connecting model capabilities to useful application workflows |
-| AI Agents & Agentic AI | Tool use, multi-step workflows and task automation |
-| Prompt Engineering | Designing, testing and refining prompts |
-| Harness Engineering | Exploring the surrounding tools, workflow and evaluation loops that help AI systems work reliably |
+| Machine Learning | Building core understanding of ML workflows, data preparation and model evaluation |
+| Generative AI | Learning LLM fundamentals and practical application patterns |
+| LLM Application Development | Connecting model APIs to application logic and user workflows |
+| AI Agents & Agentic Workflows | Exploring tool calling, multi-step tasks and automation |
+| Prompt & Context Engineering | Improving how instructions and relevant context are structured and tested |
+| Harness Engineering | Exploring the tools, checks and evaluation loops that make AI-assisted workflows more dependable |
+
+## 🧠 AI Engineering Interests
+
+- **Applied AI:** practical AI features integrated into useful software products.
+- **Generative AI:** LLM-powered applications and responsible use of model capabilities.
+- **Agentic AI:** tool-using agents and workflows that can handle multi-step tasks.
+- **AI automation:** reducing repetitive work through carefully designed AI workflows.
+- **AI-assisted software development:** using coding assistants while retaining responsibility for code quality, testing and decisions.
+- **Modern AI engineering practices:** prompt and context engineering, evaluation, iteration and harness engineering.
+
+## 🧰 AI Tools & Development Environment
+
+Tools I use or explore as part of learning, coding and experimenting:
+
+| Tool | How I use or explore it |
+|---|---|
+| **ChatGPT** | Learning concepts, brainstorming, debugging and reviewing ideas |
+| **OpenAI Codex** | AI-assisted coding and working through development tasks |
+| **Google Gemini** | Exploring generative AI and model-powered application ideas |
+| **GitHub Copilot** | Coding assistance and suggestions in the development workflow |
+| **Claude** | Reasoning through problems, reviewing approaches and coding assistance |
+| **Cursor** | AI-assisted code editing and project workflows |
+| **Antigravity** | Exploring AI-assisted development workflows |
+| **Other AI coding tools** | Experimenting with tools that support building, testing and refining software |
+
+I treat AI tools as development assistants—not substitutes for understanding, verification or testing.
 
 ## 🚀 Selected Projects
 
