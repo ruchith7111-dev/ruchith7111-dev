@@ -1,63 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:123B68,100:2563EB&height=220&section=header&text=Kamalampally%20Ruchith%20Reddy&fontSize=34&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Applied%20AI%20%26%20Generative%20AI&descSize=16&descColor=E6F1FF&descAlignY=58" width="100%" alt="Animated blue header with my name and AI Engineer career focus"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Applied+AI+%26+Generative+AI;Machine+Learning+Foundations;LLM+Applications+%26+AI+Agents;Building+Practical+AI-Powered+Software;Experimenting.+Engineering.+Improving." alt="Animated text describing my learning and career focus"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:102A56,100:2563EB&height=230&section=header&text=Kamalampally%20Ruchith%20Reddy&fontSize=36&fontColor=FFFFFF&font=Orbitron&fontAlignY=36&animation=twinkling&desc=ASPIRING%20AI%20ENGINEER%20%7C%20APPLIED%20AI%20%26%20GENERATIVE%20AI&descSize=15&descColor=C9DFFF&descAlignY=58" width="100%" alt="Animated navy and blue profile header"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=Applied+AI+%26+Generative+AI;Machine+Learning+Foundations;LLM+Applications+%26+AI+Agents;Building+Practical+AI-Powered+Software;Learn.+Build.+Evaluate.+Improve." alt="Animated career focus and technical interests"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ruchith7111-dev&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile view counter"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/ruchith7111-dev">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@ruchith7111">
-    <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  <a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
+
+<p align="center"><b>Computer Science Undergraduate · Class of 2028 · India</b></p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science student (Class of 2028)** from India, building my skills toward a career in **AI Engineering**, with a focus on **Applied AI and Generative AI**.
+I'm **Kamalampally Ruchith Reddy**, a B.Tech Computer Science student (Class of 2028) from India, building toward a career in **AI Engineering**, focused on **Applied AI and Generative AI**.
 
-I’m interested in turning AI capabilities into practical software: applications that use machine-learning models, LLMs, tools and well-designed workflows to solve real problems. I learn by combining fundamentals with hands-on projects, testing what I build and improving it step by step.
+I’m interested in turning AI capabilities into practical software: applications that combine machine-learning foundations, language models, APIs and well-designed workflows to solve real problems. I learn by building, testing and improving—not by treating generated output as automatically correct.
 
-- 🎓 Computer Science undergraduate, currently strengthening my software and AI foundations.
-- 🧠 Building a strong foundation across Machine Learning, Generative AI, LLM applications and AI agents.
-- 🛠️ Interested in building useful projects with Python and AI-assisted development tools.
-- 🌱 Sharing my learning journey and technical interests through GitHub and Medium.
+- 🎓 Computer Science undergraduate strengthening software and AI engineering fundamentals.
+- 🧠 Learning the foundations behind machine learning and modern AI-powered applications.
+- 🛠️ Interested in LLM applications, agentic workflows and practical automation.
+- ✍️ Sharing technical interests and learning through GitHub and Medium.
 
-## 🎯 Career Direction — Aspiring AI Engineer
+## 🎯 Career Direction
 
-**Target role:** **Aspiring AI Engineer | Applied AI & Generative AI**
+<p align="center"><b>ASPIRING AI ENGINEER&nbsp; | &nbsp;APPLIED AI&nbsp; | &nbsp;GENERATIVE AI</b></p>
 
-I’m preparing for entry-level AI engineering opportunities focused on building and integrating AI into real applications. My direction includes:
+Preparing for entry-level AI engineering opportunities focused on building and integrating AI into real applications:
 
-- **Applied AI development:** building software features around models, APIs and real user needs.
-- **Generative AI & LLM applications:** integrating language models into useful, testable application workflows.
-- **AI agents & automation:** exploring tool use and multi-step task workflows.
-- **Reliable AI systems:** developing good habits around prompt design, testing, evaluation and the engineering harness around AI workflows.
+- **Applied AI development** — building software features around models, APIs and real user needs.
+- **Generative AI & LLM applications** — connecting language models to useful, testable product workflows.
+- **AI agents & automation** — exploring tool use, multi-step tasks and dependable automation.
+- **AI engineering practices** — prompt and context design, evaluation, testing and iterative refinement.
 
-I’m currently learning and building toward this role; I’m not presenting these areas as professional experience.
+These are my learning and career focus areas, not claims of professional experience.
 
 ## 🧰 Technical Skills
 
-These are the technologies I currently have familiarity with or have practiced.
-
-**Programming**
+<p><b>Programming</b></p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
-
-**Data Libraries**
+<p><b>Data & Scientific Python</b></p>
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
-
-**Developer Tools**
+<p><b>Version Control & Workflow</b></p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -65,7 +61,7 @@ These are the technologies I currently have familiarity with or have practiced.
 
 ## 🧠 Machine Learning Foundations
 
-A practical foundation in the core concepts and workflows behind machine-learning applications:
+A practical foundation in core concepts and workflows behind machine-learning applications:
 
 - ML fundamentals and common learning approaches.
 - Data understanding, preparation and preprocessing, including handling outliers.
@@ -76,103 +72,116 @@ A practical foundation in the core concepts and workflows behind machine-learnin
 
 ## 🧭 Current Focus
 
-| Area | Current direction |
+| Focus area | Direction |
 |---|---|
-| Generative AI | Learning LLM fundamentals and practical application patterns |
-| LLM Application Development | Connecting model APIs to application logic and user workflows |
-| AI Agents & Agentic Workflows | Exploring tool calling, multi-step tasks and automation |
-| Prompt & Context Engineering | Improving how instructions and relevant context are structured and tested |
-| Harness Engineering | Exploring the tools, checks and evaluation loops that make AI-assisted workflows more dependable |
+| Generative AI | LLM fundamentals and practical application patterns |
+| LLM application development | Connecting model APIs to application logic and user workflows |
+| AI agents & agentic workflows | Tool calling, multi-step tasks and automation |
+| Prompt & context engineering | Structuring instructions and relevant context; testing outcomes |
+| Harness engineering | Exploring tools, checks and evaluation loops for dependable AI workflows |
 
 ## 🧠 AI Engineering Interests
 
+<p>
+  <img src="https://img.shields.io/badge/Applied_AI-2563EB?style=flat-square&logo=brain&logoColor=white" alt="Applied AI"/>
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=googlecloud&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLM_Applications-0F766E?style=flat-square&logo=openai&logoColor=white" alt="LLM applications"/>
+  <img src="https://img.shields.io/badge/AI_Agents-1D4ED8?style=flat-square&logo=probot&logoColor=white" alt="AI agents"/>
+  <img src="https://img.shields.io/badge/Automation-475569?style=flat-square&logo= Zapier&logoColor=white" alt="Automation"/>
+</p>
+
 - **Applied AI:** practical AI features integrated into useful software products.
 - **Generative AI:** LLM-powered applications and responsible use of model capabilities.
-- **Agentic AI:** tool-using agents and workflows that can handle multi-step tasks.
-- **AI automation:** reducing repetitive work through carefully designed AI workflows.
-- **AI-assisted software development:** using coding assistants while retaining responsibility for code quality, testing and decisions.
-- **Modern AI engineering practices:** prompt and context engineering, evaluation, iteration and harness engineering.
+- **Agentic AI:** tool-using agents and workflows designed for multi-step tasks.
+- **AI automation:** reducing repetitive work through carefully designed workflows.
+- **AI-assisted development:** using coding assistants while retaining responsibility for code quality and verification.
 
-## 🧰 AI Tools & Development Environment
+## 🧑‍💻 AI Tools & Development Environment
 
-Tools I use or explore as part of learning, coding and experimenting:
+Tools I use or explore while learning, coding and experimenting:
 
-| Tool | How I use or explore it |
-|---|---|
-| **ChatGPT** | Learning concepts, brainstorming, debugging and reviewing ideas |
-| **OpenAI Codex** | AI-assisted coding and working through development tasks |
-| **Google Gemini** | Exploring generative AI and model-powered application ideas |
-| **GitHub Copilot** | Coding assistance and suggestions in the development workflow |
-| **Claude** | Reasoning through problems, reviewing approaches and coding assistance |
-| **Cursor** | AI-assisted code editing and project workflows |
-| **Antigravity** | Exploring AI-assisted development workflows |
-| **Other AI coding tools** | Experimenting with tools that support building, testing and refining software |
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Antigravity-334155?style=for-the-badge&logoColor=white" alt="Antigravity"/>
+</p>
 
 I treat AI tools as development assistants—not substitutes for understanding, verification or testing.
 
 ## 🚀 Selected Projects
 
 ### 01 · [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
-An AI-assisted application that extracts structured candidate information from PDF resumes using Google's Gemini API.
+
+An AI-assisted application that extracts structured candidate information from PDF resumes using Google’s Gemini API.
+
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/></p>
 
 - Accepts PDF resumes and extracts their text.
 - Uses Gemini to produce structured resume data.
 - Provides a dashboard to view, search and manage parsed resumes.
 - Stores parsed information locally in JSON.
 
-**Repository technologies:** React, TypeScript, Express, Vite, Tailwind CSS, Google Gemini API and pdf-parse.
-
 ### 02 · [SkillForge](https://github.com/ruchith7111-dev/SkillForge)
+
 A Python console application for tracking skills, practice hours and learning progress.
+
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/> <img src="https://img.shields.io/badge/unittest-3776AB?style=flat-square&logo=python&logoColor=white" alt="unittest"/></p>
 
 - Add, update, delete and filter skills.
 - Calculate skill levels from logged practice hours.
 - Summarize progress and export data.
 
-**Repository technologies:** Python, JSON, CSV/PDF export and unittest.
-
 ### 03 · [CodeWhiz](https://github.com/ruchith7111-dev/CodeWhiz)
+
 A Python console application for recording and reviewing coding practice sessions.
+
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/> <img src="https://img.shields.io/badge/unittest-3776AB?style=flat-square&logo=python&logoColor=white" alt="unittest"/></p>
 
 - Record, update and delete coding sessions.
 - Filter sessions by language or category.
 - Generate summary reports.
 - Persist session data in JSON.
 
-**Repository technologies:** Python, JSON and unittest.
-
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruchith7111-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub activity statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruchith7111-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub statistics"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchith7111-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Most used programming languages"/>
 </p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=ruchith7111-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/></p>
+
+## 🏆 GitHub Achievements
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ruchith7111-dev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies"/></p>
+
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ruchith7111-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated snake showing GitHub contribution activity" src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
-## 📈 Contribution Activity
+## 🤝 Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchith7111-dev&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58A6FF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ruchith7111-dev">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://medium.com/@ruchith7111">Medium</a>
+  <a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:123B68,100:0D1117&height=110&section=footer" width="100%" alt="Decorative blue wave footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:102A56,100:080B16&height=115&section=footer" width="100%" alt="Animated blue footer"/>
   <i>Learn deliberately. Build practically. Improve continuously.</i>
 </div>
-
 
 ## 🏅 Certifications & Learning Achievements
 
