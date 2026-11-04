@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:102A56,100:2563EB&height=230&section=header&text=Kamalampally%20Ruchith%20Reddy&fontSize=36&fontColor=FFFFFF&font=Orbitron&fontAlignY=36&animation=twinkling&desc=ASPIRING%20AI%20ENGINEER%20%7C%20APPLIED%20AI%20%26%20GENERATIVE%20AI&descSize=15&descColor=C9DFFF&descAlignY=58" width="100%" alt="Animated navy and blue profile header"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=Applied+AI+%26+Generative+AI;Machine+Learning+Foundations;LLM+Applications+%26+AI+Agents;Building+Practical+AI-Powered+Software;Learn.+Build.+Evaluate.+Improve." alt="Animated career focus and technical interests"/>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ruchith7111-dev&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile view counter"/>
+
+# Kamalampally Ruchith Reddy
+
+**Aspiring AI Engineer | Applied AI & Generative AI**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=560&height=70&lines=Applied+AI+%26+Generative+AI;Machine+Learning+Foundations;LLM+Applications+%26+AI+Agents;Building+Practical+AI+Software" alt="Animated career focus and technical interests"/>
+
 </div>
+
+
 
 <p align="center">
   <a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -151,23 +155,13 @@ A Python console application for recording and reviewing coding practice session
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruchith7111-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchith7111-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Most used programming languages"/>
+  <img src="https://img.shields.io/github/followers/ruchith7111-dev?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/repos/ruchith7111-dev?label=Public%20Repositories&style=for-the-badge&logo=github&color=123B68" alt="Public repositories"/>
+  <img src="https://img.shields.io/github/stars/ruchith7111-dev?label=Total%20Stars&style=for-the-badge&logo=github&color=1D4ED8" alt="GitHub stars"/>
 </p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=ruchith7111-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/></p>
-
-## 🏆 GitHub Achievements
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ruchith7111-dev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies"/></p>
-
-## 🐍 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated snake showing GitHub contribution activity" src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=ruchith7111-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
 </p>
 
 ## 🤝 Connect
@@ -179,7 +173,7 @@ A Python console application for recording and reviewing coding practice session
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:102A56,100:080B16&height=115&section=footer" width="100%" alt="Animated blue footer"/>
+  
   <i>Learn deliberately. Build practically. Improve continuously.</i>
 </div>
 
