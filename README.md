@@ -131,3 +131,40 @@ A Python console application for recording and reviewing coding practice session
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:123B68,100:0D1117&height=110&section=footer" width="100%" alt="Decorative blue wave footer"/>
   <i>Learn deliberately. Build practically. Improve continuously.</i>
 </div>
+
+
+## 🏅 Certifications & Learning Achievements
+
+I believe in continuous learning and documenting the skills I'm developing. This section separates course-completion certificates from digital badges and learning achievements.
+
+### 📜 Course Completion Certificates
+
+| Certificate | Issuer | Completed |
+|---|---|---|
+| [Foundations in Generative AI](https://www.credly.com/earner/earned/share/aae74aa1-d7c3-4465-a0fa-3019b5323a12) | IBM SkillsBuild | 22 May 2026 |
+| What Is Generative AI? | LinkedIn Learning | 2 February 2026 |
+
+### 🎓 Additional Courses & Learning Achievements
+
+- Create Your First Gemini Enterprise Application — Google
+- Getting Started with Generative AI — IBM
+- GUVI's Webinar: Master Dashboard Creation — HCL GUVI
+- Introduction to Generative AI — Google Cloud Skills Boost
+- Introduction to Large Language Models — Google Cloud Skills Boost
+- Introduction to Responsible AI — Google Cloud Skills Boost
+- AI Fluency for Students — Anthropic
+- 5-Day AI Agents Intensive Vibe Coding Course — Google & Kaggle
+- AI Skills Fest 2026 — Microsoft
+
+### 🏷️ Digital Badges & SkillsBuild Stickers
+
+- Introduction to Large Language Models — IBM SkillsBuild
+- Ethical Considerations for Generative AI — IBM SkillsBuild
+- Foundations in Generative AI — IBM SkillsBuild
+- Build Your First Chatbot — IBM SkillsBuild
+
+### 🔗 Other Credential Links
+
+- [Credly credential](https://www.credly.com/earner/earned/badge/f66222e7-2ea9-4085-99ea-0ffe2dd2822a) — credential details to be confirmed.
+
+> Note: Course certificates, digital badges and SkillsBuild stickers are listed separately. Some entries may represent related learning activities rather than separate formal certifications. Credential details for the second Credly link still need confirmation.
