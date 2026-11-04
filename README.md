@@ -84,9 +84,9 @@ A practical foundation in core concepts and workflows behind machine-learning ap
 
 <p>
   <img src="https://img.shields.io/badge/Applied_AI-2563EB?style=flat-square" alt="Applied AI"/>
-  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=googlecloud&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=google&logoColor=white" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/LLM_Applications-0F766E?style=flat-square&logo=openai&logoColor=white" alt="LLM applications"/>
-  <img src="https://img.shields.io/badge/AI_Agents-1D4ED8?style=flat-square&logo=probot&logoColor=white" alt="AI agents"/>
+  <img src="https://img.shields.io/badge/AI_Agents-1D4ED8?style=flat-square" alt="AI agents"/>
   <img src="https://img.shields.io/badge/Automation-475569?style=flat-square" alt="Automation"/>
 </p>
 
@@ -103,10 +103,10 @@ Tools I use or explore while learning, coding and experimenting:
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge" alt="Cursor"/>
   <img src="https://img.shields.io/badge/Antigravity-334155?style=for-the-badge" alt="Antigravity"/>
 </p>
 
