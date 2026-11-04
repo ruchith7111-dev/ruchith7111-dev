@@ -83,11 +83,11 @@ A practical foundation in core concepts and workflows behind machine-learning ap
 ## 🧠 AI Engineering Interests
 
 <p>
-  <img src="https://img.shields.io/badge/Applied_AI-2563EB?style=flat-square&logo=brain&logoColor=white" alt="Applied AI"/>
+  <img src="https://img.shields.io/badge/Applied_AI-2563EB?style=flat-square" alt="Applied AI"/>
   <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=googlecloud&logoColor=white" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/LLM_Applications-0F766E?style=flat-square&logo=openai&logoColor=white" alt="LLM applications"/>
   <img src="https://img.shields.io/badge/AI_Agents-1D4ED8?style=flat-square&logo=probot&logoColor=white" alt="AI agents"/>
-  <img src="https://img.shields.io/badge/Automation-475569?style=flat-square&logo= Zapier&logoColor=white" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Automation-475569?style=flat-square" alt="Automation"/>
 </p>
 
 - **Applied AI:** practical AI features integrated into useful software products.
@@ -107,7 +107,7 @@ Tools I use or explore while learning, coding and experimenting:
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Antigravity-334155?style=for-the-badge&logoColor=white" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Antigravity-334155?style=for-the-badge" alt="Antigravity"/>
 </p>
 
 I treat AI tools as development assistants—not substitutes for understanding, verification or testing.
