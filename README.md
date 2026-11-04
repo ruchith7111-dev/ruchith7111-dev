@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:123B68,100:2563EB&height=220&section=header&text=Kamalampally%20Ruchith%20Reddy&fontSize=34&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Applied%20AI%20%26%20Generative%20AI&descSize=16&descColor=E6F1FF&descAlignY=58" width="100%" alt="Animated blue header with my name and AI Engineer career focus"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+toward+Applied+AI+Engineering;Exploring+Generative+AI+and+LLM+Applications;Learning+AI+Agents%2C+Agentic+Workflows+%26+Automation;Turning+ideas+into+practical+software+projects" alt="Animated text describing my learning and career focus"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Applied+AI+%26+Generative+AI;Machine+Learning+Foundations;LLM+Applications+%26+AI+Agents;Building+Practical+AI-Powered+Software;Experimenting.+Engineering.+Improving." alt="Animated text describing my learning and career focus"/>
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@ I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science student (Class o
 I’m interested in turning AI capabilities into practical software: applications that use machine-learning models, LLMs, tools and well-designed workflows to solve real problems. I learn by combining fundamentals with hands-on projects, testing what I build and improving it step by step.
 
 - 🎓 Computer Science undergraduate, currently strengthening my software and AI foundations.
-- 🧠 Exploring Machine Learning, Generative AI, LLM applications and AI agents.
+- 🧠 Building a strong foundation across Machine Learning, Generative AI, LLM applications and AI agents.
 - 🛠️ Interested in building useful projects with Python and AI-assisted development tools.
 - 🌱 Sharing my learning journey and technical interests through GitHub and Medium.
 
@@ -37,7 +37,6 @@ I’m preparing for entry-level AI engineering opportunities focused on building
 - **Applied AI development:** building software features around models, APIs and real user needs.
 - **Generative AI & LLM applications:** integrating language models into useful, testable application workflows.
 - **AI agents & automation:** exploring tool use and multi-step task workflows.
-- **ML foundations:** learning the concepts, data preparation and evaluation needed to understand model behavior.
 - **Reliable AI systems:** developing good habits around prompt design, testing, evaluation and the engineering harness around AI workflows.
 
 I’m currently learning and building toward this role; I’m not presenting these areas as professional experience.
@@ -64,11 +63,21 @@ These are the technologies I currently have familiarity with or have practiced.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+## 🧠 Machine Learning Foundations
+
+A practical foundation in the core concepts and workflows behind machine-learning applications:
+
+- ML fundamentals and common learning approaches.
+- Data understanding, preparation and preprocessing, including handling outliers.
+- Feature engineering: feature extraction, construction and selection.
+- Model development, training and evaluation.
+- Evaluation metrics and interpreting model performance.
+- Python-based data work with NumPy and Pandas.
+
 ## 🧭 Current Focus
 
 | Area | Current direction |
 |---|---|
-| Machine Learning | Building core understanding of ML workflows, data preparation and model evaluation |
 | Generative AI | Learning LLM fundamentals and practical application patterns |
 | LLM Application Development | Connecting model APIs to application logic and user workflows |
 | AI Agents & Agentic Workflows | Exploring tool calling, multi-step tasks and automation |
