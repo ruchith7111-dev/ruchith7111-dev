@@ -47,21 +47,39 @@ These are my career interests and learning areas, not claims of professional exp
 
 ## 🧩 Technical Skills
 
-**Programming**
+A focused snapshot of the programming languages, data libraries and development tools I currently know and practise.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Programming Languages
 
-**Data & Scientific Python**
+| Technology | Current level |
+|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Fundamentals |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) **C** | Intermediate |
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 📊 Data & Scientific Python
 
-**Developer Tools**
+| Library | What I use it for |
+|---|---|
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) **NumPy** | Array operations and numerical computing practice |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) **Pandas** | Working with tabular data and DataFrame fundamentals |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🧠 Machine Learning Foundations
+
+Concepts I have been studying and practising as part of my ML foundation:
+
+- Data preprocessing and data quality checks.
+- Identifying and handling outliers.
+- Feature engineering: feature extraction, feature construction and feature selection.
+- Understanding model training and evaluation workflows.
+
+### 🔧 Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Development workflow:** version control, repository management and maintaining project code on GitHub.
+
+> AI assistants and coding environments are listed separately under **AI Tools I Use & Explore**, so programming skills, libraries and AI tools remain clearly distinguished.
 
 ## 🧠 Machine Learning Foundations
 
