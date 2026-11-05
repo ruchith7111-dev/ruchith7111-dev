@@ -1,52 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="460" viewBox="0 0 1440 460" role="img" aria-labelledby="title desc">
-<title id="title">Kamalampally Ruchith Reddy | Applied AI Engineering</title>
-<desc id="desc">A custom-built sci-fi engineering banner with a midnight navy grid, electric violet and ice-blue accents, orbital model nodes and a subtle animated signal sweep.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+<title id="title">Kamalampally Ruchith Reddy — Applied AI Engineer</title>
+<desc id="desc">An editorial studio-style banner with warm ivory paper, forest green typography, terracotta accents and an abstract data-flow illustration.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B16"/><stop offset=".55" stop-color="#11182A"/><stop offset="1" stop-color="#101F30"/></linearGradient>
- <linearGradient id="electric" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA"/><stop offset=".52" stop-color="#62D7F5"/><stop offset="1" stop-color="#A6F0D2"/></linearGradient>
- <radialGradient id="aura"><stop stop-color="#6E7BFF" stop-opacity=".2"/><stop offset="1" stop-color="#6E7BFF" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#AFC5E8" stroke-opacity=".075"/></pattern>
- <filter id="glow"><feGaussianBlur stdDeviation="13"/></filter>
- <clipPath id="frame"><rect x="1" y="1" width="1438" height="458" rx="18"/></clipPath>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5F0E6"/><stop offset="1" stop-color="#E9E3D6"/></linearGradient>
+ <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".45" fill="#203D35" opacity=".12"/></pattern>
+ <linearGradient id="terracotta" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#C76B4A"/><stop offset="1" stop-color="#D69A62"/></linearGradient>
+ <clipPath id="frame"><rect x="1" y="1" width="1438" height="438" rx="22"/></clipPath>
 </defs>
 <g clip-path="url(#frame)">
- <rect width="1440" height="460" fill="url(#bg)"/><rect width="1440" height="460" fill="url(#grid)"/>
- <ellipse cx="1110" cy="225" rx="360" ry="285" fill="url(#aura)"/>
- <path d="M58 54H1382M58 405H1382" stroke="#8D9BF4" stroke-opacity=".42"/>
- <path d="M58 54v18M1382 54v18M58 405v-18M1382 405v-18" stroke="#62D7F5" stroke-width="2"/>
- <g font-family="Arial,Helvetica,sans-serif">
-  <text x="88" y="103" fill="#AFA0FF" font-size="13" font-weight="700" letter-spacing="5">APPLIED INTELLIGENCE / ENGINEERING PROFILE</text>
-  <text x="82" y="202" fill="#F4F6FF" font-size="56" font-weight="700" letter-spacing="-1.5">KAMALAMPALLY</text>
-  <text x="82" y="270" fill="#F4F6FF" font-size="69" font-weight="700" letter-spacing="-2">RUCHITH REDDY</text>
- </g>
- <rect x="88" y="296" width="540" height="3" rx="2" fill="url(#electric)"/>
- <g font-family="'Courier New',monospace">
-  <text x="88" y="344" fill="#82DFF5" font-size="19" font-weight="700" letter-spacing="2">APPLIED AI  /  GENERATIVE AI</text>
-  <text x="88" y="378" fill="#AAB9D2" font-size="13" letter-spacing="1.2">LLM APPLICATIONS · AGENTIC WORKFLOWS · AI AUTOMATION</text>
-  <text x="88" y="430" fill="#71829F" font-size="11" letter-spacing="2">COMPUTER SCIENCE UNDERGRADUATE  /  CLASS OF 2028</text>
-  <text x="1350" y="82" fill="#71829F" font-size="10" text-anchor="end" letter-spacing="2">SYSTEM MAP / 01</text>
- </g>
- <g transform="translate(1090 220)" fill="none">
-  <circle r="158" stroke="#A78BFA" stroke-opacity=".2" stroke-dasharray="2 9"/>
-  <circle r="119" stroke="#62D7F5" stroke-opacity=".22"/>
-  <circle r="78" stroke="#A78BFA" stroke-opacity=".35" stroke-dasharray="3 8"/>
-  <g stroke="#A8BCD9" stroke-opacity=".58" stroke-width="1.5">
-   <path d="M-142 -58L-91 -112L-15 -71L59 -130L139 -55L119 50L36 112L-58 88L-132 24Z"/>
-   <path d="M-91 -112L-58 88M-15 -71L119 50M59 -130L36 112M-132 24L139 -55M-142 -58L119 50"/>
+ <rect width="1440" height="440" fill="url(#paper)"/>
+ <rect width="1440" height="440" fill="url(#grain)"/>
+ <path d="M58 54H1382" stroke="#25483D" stroke-opacity=".45"/>
+ <text x="78" y="89" fill="#A95C40" font-family="monospace" font-size="13" letter-spacing="4">THE APPLIED INTELLIGENCE JOURNAL  /  01</text>
+ <text x="76" y="188" fill="#193B32" font-family="Georgia, 'Times New Roman', serif" font-size="65" letter-spacing="-2">Kamalampally</text>
+ <text x="76" y="260" fill="#193B32" font-family="Georgia, 'Times New Roman', serif" font-size="75" font-weight="bold" letter-spacing="-3">Ruchith Reddy</text>
+ <path d="M80 286H670" stroke="url(#terracotta)" stroke-width="5"/>
+ <text x="80" y="330" fill="#A95C40" font-family="monospace" font-size="18" letter-spacing="2.8">APPLIED AI  ·  GENERATIVE AI</text>
+ <text x="80" y="365" fill="#52675D" font-family="Arial, sans-serif" font-size="17">Building useful software with language models, tools and thoughtful evaluation.</text>
+ <text x="80" y="405" fill="#718077" font-family="monospace" font-size="11" letter-spacing="2">COMPUTER SCIENCE UNDERGRADUATE  /  CLASS OF 2028</text>
+ <!-- editorial data-flow illustration -->
+ <g transform="translate(1030 222)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <circle r="155" stroke="#25483D" stroke-opacity=".18" stroke-width="1"/>
+  <circle r="119" stroke="#25483D" stroke-opacity=".22" stroke-dasharray="2 8"/>
+  <path d="M-185 -42C-120 -42 -108 -118 -38 -118S46 -36 105 -36 150 -96 190 -96" stroke="#25483D" stroke-width="2.2"/>
+  <path d="M-185 48C-116 48 -102 112 -30 112S52 36 110 36 150 98 190 98" stroke="#C76B4A" stroke-width="2.2"/>
+  <path d="M-38 -118V112M105 -36V36" stroke="#25483D" stroke-opacity=".3" stroke-dasharray="3 7"/>
+  <g fill="#F5F0E6" stroke-width="3">
+   <circle cx="-185" cy="-42" r="8" stroke="#C76B4A"/><circle cx="-38" cy="-118" r="9" stroke="#25483D"/>
+   <circle cx="105" cy="-36" r="10" stroke="#C76B4A"/><circle cx="190" cy="-96" r="7" stroke="#25483D"/>
+   <circle cx="-185" cy="48" r="8" stroke="#25483D"/><circle cx="-30" cy="112" r="9" stroke="#C76B4A"/>
+   <circle cx="110" cy="36" r="10" stroke="#25483D"/><circle cx="190" cy="98" r="7" stroke="#C76B4A"/>
   </g>
-  <g fill="#11182A" stroke="#82DFF5" stroke-width="2">
-   <circle cx="-142" cy="-58" r="6"/><circle cx="-91" cy="-112" r="7"/><circle cx="-15" cy="-71" r="8"/><circle cx="59" cy="-130" r="6"/><circle cx="139" cy="-55" r="7"/><circle cx="119" cy="50" r="8"/><circle cx="36" cy="112" r="6"/><circle cx="-58" cy="88" r="8"/><circle cx="-132" cy="24" r="6"/>
-  </g>
-  <circle r="26" fill="#62D7F5" opacity=".18" filter="url(#glow)"/>
-  <circle r="9" fill="#A6F0D2"><animate attributeName="r" values="6;11;6" dur="3s" repeatCount="indefinite"/></circle>
-  <circle r="31" stroke="#62D7F5" stroke-opacity=".7"><animate attributeName="r" values="20;45;20" dur="4.5s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".7;.08;.7" dur="4.5s" repeatCount="indefinite"/></circle>
-  <path d="M-142 -58L-91 -112L-15 -71L59 -130L139 -55" stroke="#A78BFA" stroke-width="2" stroke-dasharray="7 14"><animate attributeName="stroke-dashoffset" from="0" to="-84" dur="7s" repeatCount="indefinite"/></path>
-  <ellipse rx="172" ry="58" stroke="#A6F0D2" stroke-opacity=".55" transform="rotate(-24)"><animateTransform attributeName="transform" type="rotate" from="-24" to="336" dur="28s" repeatCount="indefinite"/></ellipse>
+  <circle r="28" fill="#25483D" fill-opacity=".08" stroke="#25483D" stroke-width="1.5"/>
+  <path d="M-12 0H12M0 -12V12" stroke="#C76B4A" stroke-width="2"/>
+  <circle r="42" stroke="#C76B4A" stroke-opacity=".4" stroke-dasharray="3 9"><animate attributeName="stroke-dashoffset" from="0" to="-48" dur="18s" repeatCount="indefinite"/></circle>
+  <circle cx="105" cy="-36" r="17" stroke="#C76B4A" stroke-opacity=".5"><animate attributeName="r" values="13;20;13" dur="4s" repeatCount="indefinite"/></circle>
  </g>
- <rect x="0" y="0" width="1440" height="3" fill="url(#electric)" opacity=".5"><animate attributeName="y" values="52;405;52" dur="14s" repeatCount="indefinite"/></rect>
- <g font-family="'Courier New',monospace" font-size="10" fill="#AAB9D2" letter-spacing="1.5">
-  <text x="865" y="426">MODEL</text><text x="965" y="426">CONTEXT</text><text x="1070" y="426">TOOLS</text><text x="1160" y="426">EVALUATION</text><text x="1350" y="426" fill="#A6F0D2" text-anchor="end">ITERATE</text>
+ <g font-family="monospace" font-size="10" letter-spacing="1.5" fill="#52675D">
+  <text x="1250" y="80">MODEL</text><text x="1250" y="98">→ TOOLS</text><text x="1250" y="116">→ OUTPUT</text>
+  <text x="1250" y="134">→ EVALUATION</text>
  </g>
+ <path d="M58 422H1382" stroke="#25483D" stroke-opacity=".45"/>
+ <text x="1360" y="405" text-anchor="end" fill="#A95C40" font-family="monospace" font-size="11" letter-spacing="2">BUILD WITH PURPOSE</text>
 </g>
-<rect x="1" y="1" width="1438" height="458" rx="18" fill="none" stroke="url(#electric)" stroke-opacity=".48"/>
+<rect x="1" y="1" width="1438" height="438" rx="22" fill="none" stroke="#25483D" stroke-opacity=".45"/>
 </svg>
