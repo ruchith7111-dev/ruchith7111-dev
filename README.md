@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,25:0B1B3A,55:123C69,80:5426A8,100:00D9FF&height=270&section=header&text=RUCHITH%20REDDY&fontSize=58&fontColor=EAFBFF&stroke=00D9FF&strokeWidth=1&animation=fadeIn&font=Orbitron&desc=AI%20ENGINEERING%20%2F%2F%20APPLIED%20AI%20%2F%2F%20GENERATIVE%20AI&descSize=15&descColor=8BE9FD&descAlignY=72" width="100%" alt="Futuristic cyan and violet sci-fi profile header"/>
+<img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/ai-engineering-banner.svg" width="100%" alt="Custom sci-fi AI engineering interface banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=850&color=00D9FF&center=true&vCenter=true&width=760&height=42&lines=SYSTEM.ONLINE+%7C+BUILDING+WITH+AI;LLM+APPLICATIONS+%7C+AI+AGENTS;LEARN+%3E+BUILD+%3E+TEST+%3E+ITERATE" alt="Animated sci-fi terminal tagline"/>
 
