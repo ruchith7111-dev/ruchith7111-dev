@@ -66,7 +66,7 @@ An AI-assisted application that extracts structured candidate information from P
 - Accepts PDF uploads and extracts text with `pdf-parse`.
 - Sends resume text to Gemini to produce structured candidate information, including contact details, skills, work experience, education and certifications.
 - Stores parsed data in JSON and uploaded PDFs locally.
-- Provides a dashboard to search, view and delete parsed resumes, with handling for invalid files and parsing errors.
+- Exposes REST API endpoints and provides a dashboard to search, view and delete parsed resumes, with handling for invalid files and parsing errors.
 
 ### [SkillForge](https://github.com/ruchith7111-dev/SkillForge)
 
