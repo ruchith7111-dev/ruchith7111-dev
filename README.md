@@ -6,7 +6,7 @@
 
 </div>
 
-## About Me
+## 01 · Profile
 
 I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science Engineering student (Class of 2028)** from India, working toward a career in **AI Engineering**, with a focus on **Applied AI and Generative AI**.
 
@@ -14,7 +14,7 @@ I'm interested in the practical engineering behind AI products: connecting langu
 
 **At a glance:** Computer Science · Python, C and Java · NumPy and Pandas · Machine Learning foundations · LLM applications · AI agents and automation.
 
-## Career Direction & AI Focus
+## 02 · Career Focus — Applied AI & Generative AI
 
 My goal is to build AI-powered software that solves practical problems. The areas I’m most interested in are:
 
@@ -26,7 +26,7 @@ My goal is to build AI-powered software that solves practical problems. The area
 
 I’m also interested in **vibe coding, AI pair programming and harness engineering**—using AI coding tools to accelerate exploration while retaining control through clear requirements, review, tests and iteration. These are career interests and learning areas, not claims of professional experience.
 
-## Technical Toolkit
+## 03 · Technical Toolkit
 
 **Programming languages:** `Python` · `C` · `Java`
 
@@ -34,9 +34,9 @@ I’m also interested in **vibe coding, AI pair programming and harness engineer
 
 **Developer workflow:** `Git` · `GitHub`
 
-These are the technologies I have identified as familiar and have used or practised. I do not assign proficiency levels or list frameworks I have asked to keep off my profile.
+These are the technologies I have identified as familiar and have used or practised. I keep this list focused on tools I can discuss and have worked with, rather than adding technologies simply because they appear in AI job descriptions.
 
-## Machine Learning Foundations
+## 04 · Machine Learning Foundations
 
 My ML foundation covers the workflow from understanding a dataset to training and evaluating a model:
 
@@ -51,13 +51,13 @@ My ML foundation covers the workflow from understanding a dataset to training an
 
 **Tools for practice:** Python, NumPy, Pandas and Scikit-learn.
 
-## AI Tools & Working Style
+## 05 · AI Tools & Development Workflow
 
 I use or explore **ChatGPT, OpenAI Codex, Google Gemini, GitHub Copilot, Claude, Cursor and Antigravity** for learning, planning, coding and experimentation.
 
 My workflow is to clarify a task, break it into manageable steps, explore implementation options, inspect generated code, debug, test expected and failure cases, and refine the result. I treat AI output as a suggestion to verify—not as automatically correct code.
 
-## Featured Projects
+## 06 · Selected Projects
 
 ### [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
 
@@ -86,13 +86,13 @@ A Python console application for recording and reviewing coding practice.
 - Generates total-hour and category-wise reports.
 - Uses JSON persistence, validates input and includes unit tests.
 
-## Engineering Approach
+## 07 · Engineering Principles
 
 **Understand → Plan → Build → Review → Test → Refine**
 
 I aim to understand the requirement before coding, plan the smallest useful implementation, inspect the result, test normal and failure cases, and improve it based on evidence. This matters especially when working with AI coding assistants: generated code is a starting point, not proof that a task is complete.
 
-## GitHub Contributions
+## 08 · GitHub Activity
 
 <div align="center">
 
@@ -100,7 +100,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </div>
 
-## Credentials & Learning
+## 09 · Credentials & Continued Learning
 
 <details>
 <summary><strong>Certificates, courses and digital badges</strong></summary>
@@ -137,7 +137,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </details>
 
-## Connect
+## 10 · Find Me
 
 [GitHub](https://github.com/ruchith7111-dev) · [LinkedIn](https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/) · [Medium](https://medium.com/@ruchith7111)
 
