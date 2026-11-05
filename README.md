@@ -74,7 +74,11 @@ My Machine Learning foundation covers the practical model-development workflow:
 
 **Practice stack:** Python · NumPy · Pandas · Scikit-learn
 
-<h2 align="left">05 &nbsp; / &nbsp; AI TOOLS & WORKFLOW</h2>
+<h2 align="left">05 &nbsp; / &nbsp; AI TOOLS, MODELS & PLATFORMS</h2>
+
+Tools and platforms I use or have explored across AI-assisted development, model experimentation, application projects and structured learning.
+
+### AI Assistants & Coding Agents
 
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="28"/>
@@ -86,7 +90,38 @@ My Machine Learning foundation covers the practical model-development workflow:
 <img src="https://img.shields.io/badge/Antigravity-5266D5?style=for-the-badge" alt="Antigravity" height="28"/>
 </p>
 
-I use or explore these tools for learning, planning, coding and experimentation. My workflow is to define the task, break it into steps, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. **AI output is a suggestion to verify—not automatically correct code.**
+Used or explored for understanding concepts, planning tasks, generating and reviewing code, debugging, and iterating on software.
+
+### Model Ecosystem & Local AI
+
+<p>
+<img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
+<img src="https://img.shields.io/badge/Qwen-5B6CFF?style=for-the-badge" alt="Qwen" height="28"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" height="28"/>
+</p>
+
+Exploring model options, local model workflows and API-based integration for AI-powered applications.
+
+### Data Platforms & Application Services
+
+<p>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="28"/>
+</p>
+
+Platforms connected to application data, project experimentation and practical learning.
+
+### Learning Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" height="28"/>
+<img src="https://img.shields.io/badge/IBM_SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild" height="28"/>
+</p>
+
+Used for structured learning and AI-related courses and credentials.
+
+**How I work with these tools:** define the task, provide relevant context, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. AI output is a suggestion to verify—not automatically correct code.
 
 <h2 align="left">06 &nbsp; / &nbsp; SELECTED PROJECTS</h2>
 
