@@ -1,78 +1,79 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/ai-engineering-banner.svg" width="100%" alt="Kamalampally Ruchith Reddy — Applied AI and Generative AI Engineer"/>
+<img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/ai-engineering-banner.svg" width="100%" alt="Kamalampally Ruchith Reddy — Applied AI and Generative AI"/>
 
-<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-11182A?style=for-the-badge&logo=github&logoColor=A6F0D2" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-11182A?style=for-the-badge&logo=linkedin&logoColor=62D7F5" alt="LinkedIn"/></a>
-<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-11182A?style=for-the-badge&logo=medium&logoColor=F4F6FF" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-25483D?style=for-the-badge&logo=linkedin&logoColor=F5F0E6" alt="LinkedIn"/></a>
+<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-25483D?style=for-the-badge&logo=medium&logoColor=F5F0E6" alt="Medium"/></a>
+<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-25483D?style=for-the-badge&logo=github&logoColor=F5F0E6" alt="GitHub"/></a>
 
-<sub>BUILDING PRACTICAL AI SYSTEMS · LEARNING BY ENGINEERING</sub>
+<sub>COMPUTER SCIENCE · APPLIED AI · GENERATIVE AI</sub>
 
 </div>
 
 ---
 
-## PROFILE
+## About
 
-I'm **Kamalampally Ruchith Reddy**, a Computer Science undergraduate (Class of 2028) pursuing a career as an **Applied AI Engineer specialising in Generative AI**.
+I'm **Kamalampally Ruchith Reddy**, a Computer Science undergraduate (Class of 2028) focused on **Applied AI and Generative AI engineering**.
 
-I focus on building useful AI-powered software: integrating language models into applications, designing tool-using workflows, and validating system behaviour through testing and evaluation.
+I’m interested in building practical software with language models: integrating AI capabilities into applications, connecting models with tools, designing useful workflows, and evaluating outputs for reliability.
 
-## CAREER FOCUS
+## Career Direction
 
-- **Applied AI engineering** — building software that uses AI models to solve practical problems
-- **Generative AI** — LLM-powered applications and structured model outputs
-- **AI agents & automation** — tool use, multi-step workflows and task automation
-- **Prompt & context engineering** — designing clear instructions and useful context
-- **AI-assisted software development** — working with coding agents while reviewing and testing generated code
-- **Harness engineering** — exploring the tools, constraints and feedback loops that make AI development workflows reliable
+**Aspiring AI Engineer | Applied AI & Generative AI**
 
-## TECHNICAL SKILLS
+My focus is on:
+- LLM-powered applications and model integration
+- AI agents, tool use and workflow automation
+- Prompt and context engineering
+- AI-assisted software development and code validation
+- Reliable AI workflows, evaluation and harness engineering
+
+## Technical Skills
 
 **Programming languages**
 
 <p>
-<img src="https://img.shields.io/badge/Python-11182A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-<img src="https://img.shields.io/badge/C-11182A?style=for-the-badge&logo=c&logoColor=A8D8FF" alt="C"/>
-<img src="https://img.shields.io/badge/Java-11182A?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-25483D?style=flat-square&logo=python&logoColor=F5F0E6" alt="Python"/>
+<img src="https://img.shields.io/badge/C-25483D?style=flat-square&logo=c&logoColor=F5F0E6" alt="C"/>
+<img src="https://img.shields.io/badge/Java-25483D?style=flat-square&logo=openjdk&logoColor=F5F0E6" alt="Java"/>
 </p>
 
 **Data libraries**
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-11182A?style=for-the-badge&logo=numpy&logoColor=62D7F5" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-11182A?style=for-the-badge&logo=pandas&logoColor=AFA0FF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-A95C40?style=flat-square&logo=numpy&logoColor=FFFFFF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-A95C40?style=flat-square&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
 </p>
 
 **Developer tools**
 
 <p>
-<img src="https://img.shields.io/badge/Git-11182A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-11182A?style=for-the-badge&logo=github&logoColor=F4F6FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Git-25483D?style=flat-square&logo=git&logoColor=F5F0E6" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-25483D?style=flat-square&logo=github&logoColor=F5F0E6" alt="GitHub"/>
 </p>
 
-<sub>Listed skills reflect technologies you've identified as familiar; no proficiency levels are implied.</sub>
+<sub>These are the technologies I have identified as familiar. No proficiency levels are implied.</sub>
 
-## AI TOOLS & WORKFLOW
+## AI Tools & Development Workflow
 
 <p>
-<img src="https://img.shields.io/badge/ChatGPT-11182A?style=for-the-badge&logo=openai&logoColor=A6F0D2" alt="ChatGPT"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-11182A?style=for-the-badge&logo=openai&logoColor=A6F0D2" alt="OpenAI Codex"/>
-<img src="https://img.shields.io/badge/Gemini-11182A?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" alt="Google Gemini"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-11182A?style=for-the-badge&logo=githubcopilot&logoColor=F4F6FF" alt="GitHub Copilot"/>
-<img src="https://img.shields.io/badge/Claude-11182A?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude"/>
-<img src="https://img.shields.io/badge/Cursor-11182A?style=for-the-badge&logo=cursor&logoColor=F4F6FF" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Antigravity-11182A?style=for-the-badge&logo=google&logoColor=8AB4F8" alt="Antigravity"/>
+<img src="https://img.shields.io/badge/ChatGPT-25483D?style=flat-square&logo=openai&logoColor=F5F0E6" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-25483D?style=flat-square&logo=openai&logoColor=F5F0E6" alt="OpenAI Codex"/>
+<img src="https://img.shields.io/badge/Gemini-25483D?style=flat-square&logo=googlegemini&logoColor=F5F0E6" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-25483D?style=flat-square&logo=githubcopilot&logoColor=F5F0E6" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Claude-A95C40?style=flat-square&logo=claude&logoColor=FFFFFF" alt="Claude"/>
+<img src="https://img.shields.io/badge/Cursor-A95C40?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Antigravity-A95C40?style=flat-square&logo=google&logoColor=FFFFFF" alt="Antigravity"/>
 </p>
 
-**Development approach:** Understand → Plan → Build → Review → Test → Refine.
+**My development loop:** Understand → Plan → Build → Review → Test → Refine.
 
-AI tools support my workflow; code understanding, verification and responsibility remain essential.
+I use AI tools to support development, while keeping code understanding, verification and responsibility central to the process.
 
-## PROJECTS
+## Selected Projects
 
 ### [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
-
 An AI-assisted application that extracts structured candidate information from PDF resumes using Google's Gemini API.
 
 - PDF text extraction and structured data generation
@@ -80,7 +81,6 @@ An AI-assisted application that extracts structured candidate information from P
 - JSON-based local data storage
 
 ### [SkillForge](https://github.com/ruchith7111-dev/SkillForge)
-
 A Python console application for tracking skills, practice hours and learning progress.
 
 - Create, update, filter and review skill records
@@ -88,24 +88,23 @@ A Python console application for tracking skills, practice hours and learning pr
 - Persistent JSON storage and optional PDF export
 
 ### [CodeWhiz](https://github.com/ruchith7111-dev/CodeWhiz)
-
 A Python console application for recording and reviewing coding practice sessions.
 
 - Manage daily coding sessions
 - Filter by language or category
 - Generate summaries with persistent JSON storage
 
-## MACHINE LEARNING
+## Machine Learning Foundations
 
-Machine learning topics covered in my learning path:
+Machine learning concepts and workflows covered in my learning path:
 
-**ML workflows** · **Data preparation** · **Feature engineering** · **Model training** · **Evaluation** · **Interpretation**
+**Data preparation** · **Feature engineering** · **Model training** · **Model evaluation** · **Interpretation**
 
-## GITHUB ACTIVITY
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruchith7111-dev&show_icons=true&hide_border=true&bg_color=11182A&title_color=AFA0FF&icon_color=62D7F5&text_color=C9D4E8" height="165" alt="GitHub account statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ruchith7111-dev&show_icons=true&hide_border=true&bg_color=F5F0E6&title_color=25483D&icon_color=C76B4A&text_color=52675D" height="165" alt="GitHub account statistics"/>
 
 <br/>
 
@@ -113,10 +112,10 @@ Machine learning topics covered in my learning path:
 
 </div>
 
-## CREDENTIALS
+## Certificates & Credentials
 
 <details>
-<summary><strong>Certificates, courses and digital badges</strong></summary>
+<summary><strong>View certificates, courses and digital badges</strong></summary>
 
 ### Certificates
 
@@ -150,12 +149,12 @@ Machine learning topics covered in my learning path:
 
 </details>
 
-## CONNECT
+## Let's Connect
 
 <p>
-<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-11182A?style=flat-square&logo=github&logoColor=A6F0D2" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-11182A?style=flat-square&logo=linkedin&logoColor=62D7F5" alt="LinkedIn"/></a>
-<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-11182A?style=flat-square&logo=medium&logoColor=F4F6FF" alt="Medium"/></a>
+<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-25483D?style=flat-square&logo=github&logoColor=F5F0E6" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-25483D?style=flat-square&logo=linkedin&logoColor=F5F0E6" alt="LinkedIn"/></a>
+<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-25483D?style=flat-square&logo=medium&logoColor=F5F0E6" alt="Medium"/></a>
 </p>
 
-<div align="center"><sub>BUILD · TEST · EVALUATE · REFINE</sub></div>
+<div align="center"><sub>BUILD WITH PURPOSE · LEARN THROUGH ITERATION</sub></div>
