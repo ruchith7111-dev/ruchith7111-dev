@@ -2,97 +2,154 @@
 
 <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/ai-engineering-banner.svg" width="100%" alt="Kamalampally Ruchith Reddy — Applied AI and Generative AI"/>
 
-[GitHub](https://github.com/ruchith7111-dev) · [LinkedIn](https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/) · [Medium](https://medium.com/@ruchith7111)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D8FF63&center=true&vCenter=true&width=760&lines=Aspiring+AI+Engineer;Applied+AI+%26+Generative+AI;Building+practical+AI-powered+software;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Automation" alt="Animated role and focus"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
-## 01 · Profile
+---
 
-I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science Engineering student (Class of 2028)** from India, working toward a career in **AI Engineering**, with a focus on **Applied AI and Generative AI**.
+<h2 align="left">01 &nbsp; / &nbsp; PROFILE</h2>
 
-I'm interested in the practical engineering behind AI products: connecting language models to applications and data, giving models access to tools, designing useful workflows, and checking whether their outputs are reliable. I learn through programming, Machine Learning study, hands-on experiments and personal projects. I also use AI coding assistants, while keeping code understanding, review and testing my responsibility.
+I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science Engineering student (Class of 2028)** from India, working toward a career as an **AI Engineer**, focused on **Applied AI and Generative AI**.
 
-**At a glance:** Computer Science · Python, C and Java · NumPy and Pandas · Machine Learning foundations · LLM applications · AI agents and automation.
+I’m interested in the engineering behind useful AI products: connecting language models to applications and data, giving models access to tools, designing reliable workflows, and evaluating their outputs. I learn through programming, Machine Learning study, hands-on experiments and personal projects.
 
-## 02 · Career Focus — Applied AI & Generative AI
+> **My direction:** turn AI capabilities into practical software — with clear application logic, useful integrations, thoughtful evaluation and dependable behaviour.
 
-My goal is to build AI-powered software that solves practical problems. The areas I’m most interested in are:
+<h2 align="left">02 &nbsp; / &nbsp; CAREER FOCUS</h2>
 
-- **Applied AI engineering:** integrating models and APIs into usable software, connecting model behaviour to application logic, and handling inputs, outputs and errors.
-- **Generative AI & LLM applications:** building workflows around language models, structured responses, external knowledge and application-specific context.
-- **RAG and knowledge-connected applications:** retrieving relevant information and supplying it to an LLM to support more grounded responses.
-- **AI agents and automation:** tool calling, multi-step task execution, integrations with external services and workflow orchestration.
-- **AI engineering quality:** prompt and context design, evaluation, testing, failure handling and feedback loops that improve reliability.
+My target is **Applied AI / AI Engineering**, with particular interest in:
 
-I’m also interested in **vibe coding, AI pair programming and harness engineering**—using AI coding tools to accelerate exploration while retaining control through clear requirements, review, tests and iteration. These are career interests and learning areas, not claims of professional experience.
+- **LLM application development** — model APIs, structured outputs, context-aware application workflows and integration with software systems.
+- **Retrieval-Augmented Generation (RAG)** — connecting language models to relevant external knowledge and improving answer grounding.
+- **AI agents & automation** — tool calling, multi-step execution, service integrations and workflow orchestration.
+- **AI quality & reliability** — prompt design, context engineering, evaluation, testing, error handling and iterative improvement.
+- **AI-assisted engineering** — vibe coding, AI pair programming and harness engineering, with human review and verification.
 
-## 03 · Technical Toolkit
+These are my career interests and learning focus, not claims of professional employment or expertise.
 
-**Programming languages:** `Python` · `C` · `Java`
+<h2 align="left">03 &nbsp; / &nbsp; TECHNICAL TOOLKIT</h2>
 
-**Data libraries:** `NumPy` · `Pandas`
+**Programming**
 
-**Developer workflow:** `Git` · `GitHub`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="28"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="28"/>
+</p>
 
-These are the technologies I have identified as familiar and have used or practised. I keep this list focused on tools I can discuss and have worked with, rather than adding technologies simply because they appear in AI job descriptions.
+**Data & Machine Learning**
 
-## 04 · Machine Learning Foundations
+<p>
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28"/>
+<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
+</p>
 
-My ML foundation covers the workflow from understanding a dataset to training and evaluating a model:
+**Development Workflow**
 
-- **Data understanding:** exploratory data analysis, distributions, patterns and data quality.
-- **Data preparation:** preprocessing, missing values, data transformation and outlier detection/handling.
-- **Feature engineering:** feature extraction, feature construction and feature selection.
-- **Supervised learning:** regression and classification fundamentals.
-- **Unsupervised learning:** clustering and related concepts.
-- **Model development:** training/testing workflow, model comparison and practical implementation.
-- **Evaluation:** suitable metrics, result interpretation, overfitting and underfitting.
-- **Dimensionality reduction:** concepts such as PCA and LDA.
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
+</p>
 
-**Tools for practice:** Python, NumPy, Pandas and Scikit-learn.
+<h2 align="left">04 &nbsp; / &nbsp; MACHINE LEARNING FOUNDATIONS</h2>
 
-## 05 · AI Tools & Development Workflow
+My Machine Learning foundation covers the practical model-development workflow:
 
-I use or explore **ChatGPT, OpenAI Codex, Google Gemini, GitHub Copilot, Claude, Cursor and Antigravity** for learning, planning, coding and experimentation.
+- **Data analysis:** EDA, distributions, patterns and data quality.
+- **Preparation:** missing values, preprocessing, transformations and outlier handling.
+- **Feature engineering:** extraction, construction and selection.
+- **Algorithms:** regression, classification and clustering fundamentals.
+- **Model evaluation:** metrics, train/test workflow, model comparison, overfitting and underfitting.
+- **Dimensionality reduction:** PCA and LDA concepts.
 
-My workflow is to clarify a task, break it into manageable steps, explore implementation options, inspect generated code, debug, test expected and failure cases, and refine the result. I treat AI output as a suggestion to verify—not as automatically correct code.
+**Practice stack:** Python · NumPy · Pandas · Scikit-learn
 
-## 06 · Selected Projects
+<h2 align="left">05 &nbsp; / &nbsp; AI TOOLS & WORKFLOW</h2>
 
-### [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="28"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-202C3A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" height="28"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" height="28"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-1F2328?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="28"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="28"/>
+<img src="https://img.shields.io/badge/Cursor-202020?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="28"/>
+<img src="https://img.shields.io/badge/Antigravity-5266D5?style=for-the-badge" alt="Antigravity" height="28"/>
+</p>
 
-An AI-assisted application that extracts structured candidate information from PDF resumes using Google's Gemini API.
+I use or explore these tools for learning, planning, coding and experimentation. My workflow is to define the task, break it into steps, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. **AI output is a suggestion to verify—not automatically correct code.**
 
-- Accepts PDF uploads and extracts text with `pdf-parse`.
-- Sends resume text to Gemini to produce structured candidate information, including contact details, skills, work experience, education and certifications.
-- Stores parsed data in JSON and uploaded PDFs locally.
-- Exposes REST API endpoints and provides a dashboard to search, view and delete parsed resumes, with handling for invalid files and parsing errors.
+<h2 align="left">06 &nbsp; / &nbsp; SELECTED PROJECTS</h2>
 
-### [SkillForge](https://github.com/ruchith7111-dev/SkillForge)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Python console application for tracking skills and practice time.
+**[AI Resume Parser ↗](https://github.com/ruchith7111-dev/Ai_Resume_Parser)**
 
-- Adds, updates, filters and reviews skill records.
-- Logs practice hours and derives levels using configurable hours-per-level rules.
-- Tracks targets, summarizes progress and supports data export, including optional PDF export.
-- Uses JSON persistence and includes unit tests.
+<sub>AI-ASSISTED DOCUMENT PROCESSING</sub>
 
-### [CodeWhiz](https://github.com/ruchith7111-dev/CodeWhiz)
+A resume-processing application that uses Google's Gemini API to turn PDF resumes into structured candidate information.
 
-A Python console application for recording and reviewing coding practice.
+- PDF text extraction with `pdf-parse`
+- Gemini-based parsing of skills, experience, education and certifications
+- JSON data storage and REST API endpoints
+- Dashboard to search, view and delete parsed resumes
 
-- Manages coding sessions with date, language, category, hours and notes.
-- Supports adding, viewing, updating, deleting and filtering sessions.
-- Generates total-hour and category-wise reports.
-- Uses JSON persistence, validates input and includes unit tests.
+</td>
+<td width="50%" valign="top">
 
-## 07 · Engineering Principles
+**[SkillForge ↗](https://github.com/ruchith7111-dev/SkillForge)**
 
-**Understand → Plan → Build → Review → Test → Refine**
+<sub>PYTHON · SKILL & PRACTICE TRACKING</sub>
 
-I aim to understand the requirement before coding, plan the smallest useful implementation, inspect the result, test normal and failure cases, and improve it based on evidence. This matters especially when working with AI coding assistants: generated code is a starting point, not proof that a task is complete.
+A console application for managing skills, practice hours and learning targets.
 
-## 08 · GitHub Activity
+- Add, update, filter and review skill records
+- Configurable hours-per-level calculations
+- Progress summaries and data export, including PDF
+- JSON persistence and unit tests
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[CodeWhiz ↗](https://github.com/ruchith7111-dev/CodeWhiz)**
+
+<sub>PYTHON · CODING PRACTICE TRACKING</sub>
+
+A console application for recording coding sessions and reviewing practice activity.
+
+- Session management with date, language, category, hours and notes
+- Add, view, update, delete and filter operations
+- Total-hour and category-wise reports
+- JSON persistence, input validation and unit tests
+
+</td>
+</tr>
+</table>
+
+<h2 align="left">07 &nbsp; / &nbsp; ENGINEERING PRINCIPLES</h2>
+
+<div align="center">
+
+**UNDERSTAND** &nbsp; → &nbsp; **PLAN** &nbsp; → &nbsp; **BUILD** &nbsp; → &nbsp; **REVIEW** &nbsp; → &nbsp; **TEST** &nbsp; → &nbsp; **REFINE**
+
+</div>
+
+I aim to understand the requirement before coding, plan the smallest useful implementation, inspect the result, test normal and failure cases, and improve it based on evidence. This is especially important when using AI coding assistants: generated code is a starting point, not proof that a task is complete.
+
+<h2 align="left">08 &nbsp; / &nbsp; GITHUB ACTIVITY</h2>
 
 <div align="center">
 
@@ -100,19 +157,19 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </div>
 
-## 09 · Credentials & Continued Learning
+<h2 align="left">09 &nbsp; / &nbsp; CREDENTIALS & CONTINUED LEARNING</h2>
 
 <details>
-<summary><strong>Certificates, courses and digital badges</strong></summary>
+<summary><strong>View certificates, courses and digital badges</strong></summary>
 
-### Course Completion Certificates
+**Course Completion Certificates**
 
 | Certificate | Issuer | Completed |
 |:--|:--|:--|
 | [Foundations in Generative AI](https://www.credly.com/earner/earned/share/aae74aa1-d7c3-4465-a0fa-3019b5323a12) | IBM SkillsBuild | 22 May 2026 |
 | What Is Generative AI? | LinkedIn Learning | 2 February 2026 |
 
-### Additional Courses & Learning Achievements
+**Additional Courses & Learning Achievements**
 
 - Create Your First Gemini Enterprise Application — Google
 - Getting Started with Generative AI — IBM
@@ -124,25 +181,29 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 - 5-Day AI Agents Intensive Vibe Coding Course — Google & Kaggle
 - AI Skills Fest 2026 — Microsoft
 
-### IBM SkillsBuild Digital Stickers
+**IBM SkillsBuild Digital Stickers**
 
 - Introduction to Large Language Models
 - Ethical Considerations for Generative AI
 - Foundations in Generative AI
 - Build Your First Chatbot
 
-### Additional Credly Badge
+**Additional Credly Badge**
 
 [Open badge record](https://www.credly.com/earner/earned/badge/f66222e7-2ea9-4085-99ea-0ffe2dd2822a) — badge details have not been independently confirmed.
 
 </details>
 
-## 10 · Find Me
-
-[GitHub](https://github.com/ruchith7111-dev) · [LinkedIn](https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/) · [Medium](https://medium.com/@ruchith7111)
+<h2 align="left">10 &nbsp; / &nbsp; CONNECT</h2>
 
 <div align="center">
 
-<sub>BUILD WITH PURPOSE · LEARN THROUGH ITERATION</sub>
+<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-ruchith7111--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-Read_my_writing-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium profile"/></a>
+
+<br/>
+
+<sub>BUILD PRACTICALLY. THINK CRITICALLY. KEEP ITERATING.</sub>
 
 </div>
