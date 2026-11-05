@@ -18,7 +18,11 @@
 
 ---
 
-## 👋 About Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=ABOUT%20ME&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="ABOUT ME section banner in futuristic Orbitron typography"/>
+
+</div>
 
 I'm **Kamalampally Ruchith Reddy**, a B.Tech Computer Science student (Class of 2028) building toward a career in **AI Engineering**, with a focus on **Applied AI and Generative AI**.
 
@@ -29,7 +33,11 @@ I'm interested in turning AI capabilities into practical software—combining pr
 - 🛠️ Exploring AI-assisted development, prompt design and reliable engineering workflows.
 - ✍️ Sharing projects and technical learning through GitHub and Medium.
 
-## 🎯 Career Direction
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=CAREER%20DIRECTION&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="CAREER DIRECTION section banner in futuristic Orbitron typography"/>
+
+</div>
 
 ### Aspiring AI Engineer | Applied AI & Generative AI
 
@@ -45,7 +53,11 @@ Preparing for entry-level AI engineering opportunities focused on designing, dev
 
 These are my career interests and learning areas, not claims of professional experience.
 
-## 🧩 Technical Toolkit
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=TECHNICAL%20TOOLKIT&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="TECHNICAL TOOLKIT section banner in futuristic Orbitron typography"/>
+
+</div>
 
 <div align="center">
 
@@ -61,11 +73,6 @@ These are my career interests and learning areas, not claims of professional exp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### 🖥️ Application Development
-
-<p>
 </p>
 
 ### 🧠 Data & Machine Learning
@@ -100,7 +107,11 @@ These are my career interests and learning areas, not claims of professional exp
 
 *Grouped by what I have studied, used or worked with in projects. AI assistants and coding agents are listed separately below.*
  
-## 🧠 Machine Learning Foundations
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=MACHINE%20LEARNING&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="MACHINE LEARNING section banner in futuristic Orbitron typography"/>
+
+</div>
 
 A practical foundation in the concepts and workflows behind machine-learning applications:
 
@@ -111,7 +122,11 @@ A practical foundation in the concepts and workflows behind machine-learning app
 - **Model evaluation:** metrics, interpretation and understanding model performance.
 - **Python for ML:** data-oriented work with NumPy and Pandas.
 
-## 🧭 Current Focus
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=CURRENT%20FOCUS&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="CURRENT FOCUS section banner in futuristic Orbitron typography"/>
+
+</div>
 
 | Focus area | Direction |
 |---|---|
@@ -121,7 +136,11 @@ A practical foundation in the concepts and workflows behind machine-learning app
 | **Prompt & Context Engineering** | Structuring instructions and relevant context; evaluating outputs |
 | **Harness Engineering** | Exploring tools, checks and feedback loops for dependable AI workflows |
 
-## 🤖 AI Engineering Interests
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=AI%20ENGINEERING&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="AI ENGINEERING section banner in futuristic Orbitron typography"/>
+
+</div>
 
 ![Applied AI](https://img.shields.io/badge/Applied_AI-2563EB?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=google&logoColor=white)
@@ -135,7 +154,11 @@ A practical foundation in the concepts and workflows behind machine-learning app
 - **Build–test–review–refine loops:** checking generated code, debugging and improving the result.
 - **Harness engineering:** exploring the tools, tests and feedback mechanisms around AI-powered workflows.
 
-## 🧑‍💻 AI Tools I Use & Explore
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=AI%20TOOLCHAIN&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="AI TOOLCHAIN section banner in futuristic Orbitron typography"/>
+
+</div>
 
 Tools I work with or explore for learning, coding, research and experimentation:
 
@@ -154,7 +177,11 @@ Tools I work with or explore for learning, coding, research and experimentation:
 
 AI tools support my workflow, but I remain responsible for understanding, reviewing, testing and validating the output.
 
-## 🔁 How I Approach Building
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=BUILD%20PHILOSOPHY&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="BUILD PHILOSOPHY section banner in futuristic Orbitron typography"/>
+
+</div>
 
 <div align="center">
 
@@ -164,7 +191,11 @@ AI tools support my workflow, but I remain responsible for understanding, review
 
 I try to break problems into manageable steps, use tools deliberately, inspect the result and improve it through feedback rather than accepting the first output.
 
-## 🚀 Selected Projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=SELECTED%20PROJECTS&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="SELECTED PROJECTS section banner in futuristic Orbitron typography"/>
+
+</div>
 
 ### 01 · [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
 
@@ -197,7 +228,11 @@ A Python console application for recording and reviewing coding practice session
 - Filter sessions by language or category.
 - Generate summary reports and store session data in JSON.
 
-## 📊 GitHub Activity
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=GITHUB%20ACTIVITY&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="GITHUB ACTIVITY section banner in futuristic Orbitron typography"/>
+
+</div>
 
 <div align="center">
 
@@ -215,7 +250,11 @@ A Python console application for recording and reviewing coding practice session
 
 </div>
 
-## 🤝 Connect
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=CONNECT&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="CONNECT section banner in futuristic Orbitron typography"/>
+
+</div>
 
 <div align="center">
 
@@ -231,7 +270,11 @@ A Python console application for recording and reviewing coding practice session
 
 ---
 
-## 🏅 Certifications & Learning Achievements
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=58&section=header&text=CREDENTIALS%20%26%20LEARNING&fontSize=22&fontColor=E0F2FE&font=Orbitron&animation=fadeIn&color=0:0B1020,45:1E3A8A,100:5B21B6" width="100%" alt="CREDENTIALS & LEARNING section banner in futuristic Orbitron typography"/>
+
+</div>
 
 I believe in continuous learning and documenting the skills I'm developing. This section separates course-completion certificates from digital badges and learning achievements.
 
