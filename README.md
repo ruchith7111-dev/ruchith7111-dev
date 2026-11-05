@@ -12,13 +12,13 @@
 
 ---
 
-## About
+## About Me
 
 I'm **Kamalampally Ruchith Reddy**, a Computer Science undergraduate (Class of 2028) focused on **Applied AI and Generative AI engineering**.
 
 I’m interested in building practical software with language models: integrating AI capabilities into applications, connecting models with tools, designing useful workflows, and evaluating outputs for reliability.
 
-## Career Direction
+## Career Focus
 
 **Aspiring AI Engineer | Applied AI & Generative AI**
 
@@ -29,7 +29,7 @@ My focus is on:
 - AI-assisted software development and code validation
 - Reliable AI workflows, evaluation and harness engineering
 
-## Technical Skills
+## Technical Toolkit
 
 **Programming languages**
 
@@ -71,7 +71,7 @@ My focus is on:
 
 I use AI tools to support development, while keeping code understanding, verification and responsibility central to the process.
 
-## Selected Projects
+## Featured Projects
 
 ### [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
 An AI-assisted application that extracts structured candidate information from PDF resumes using Google's Gemini API.
@@ -100,7 +100,7 @@ Machine learning concepts and workflows covered in my learning path:
 
 **Data preparation** · **Feature engineering** · **Model training** · **Model evaluation** · **Interpretation**
 
-## GitHub Activity
+## GitHub Activity & Contributions
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Machine learning concepts and workflows covered in my learning path:
 
 </div>
 
-## Certificates & Credentials
+## Credentials & Learning
 
 <details>
 <summary><strong>View certificates, courses and digital badges</strong></summary>
@@ -149,7 +149,7 @@ Machine learning concepts and workflows covered in my learning path:
 
 </details>
 
-## Let's Connect
+## Connect
 
 <p>
 <a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-25483D?style=flat-square&logo=github&logoColor=F5F0E6" alt="GitHub"/></a>
