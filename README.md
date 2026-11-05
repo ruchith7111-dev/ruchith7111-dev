@@ -47,7 +47,7 @@ My ML foundation covers the workflow from understanding a dataset to training an
 - **Unsupervised learning:** clustering and related concepts.
 - **Model development:** training/testing workflow, model comparison and practical implementation.
 - **Evaluation:** suitable metrics, result interpretation, overfitting and underfitting.
-- **Dimensionality reduction:** concepts such as PCA.
+- **Dimensionality reduction:** concepts such as PCA and LDA.
 
 **Tools for practice:** Python, NumPy, Pandas and Scikit-learn.
 
