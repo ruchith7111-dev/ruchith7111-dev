@@ -61,20 +61,74 @@ These are my career interests and learning focus, not claims of professional emp
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </p>
 
-<h2 align="left">04 &nbsp; / &nbsp; MACHINE LEARNING FOUNDATIONS</h2>
+<h2 align="left">04 &nbsp; / &nbsp; MACHINE LEARNING & DATA SCIENCE</h2>
 
-My Machine Learning foundation covers the practical model-development workflow:
+My Machine Learning foundation is organized around the end-to-end model workflow: understanding a problem, preparing data, developing features, training models and interpreting results.
 
-- **Data analysis:** EDA, distributions, patterns and data quality.
-- **Preparation:** missing values, preprocessing, transformations and outlier handling.
-- **Feature engineering:** extraction, construction and selection.
-- **Algorithms:** regression, classification and clustering fundamentals.
-- **Model evaluation:** metrics, train/test workflow, model comparison, overfitting and underfitting.
+### Data Understanding & Preparation
+
+- **Exploratory Data Analysis (EDA):** inspect datasets, understand distributions, identify patterns and spot data-quality issues.
+- **Preprocessing:** handle missing values, transform data and prepare numerical and categorical inputs for modelling.
+- **Outlier analysis:** identify unusual observations, consider their causes and choose an appropriate treatment.
+
+### Feature Engineering
+
+- **Feature extraction:** derive useful information from existing raw data.
+- **Feature construction:** create informative variables from existing columns or relationships.
+- **Feature selection:** identify relevant inputs and reduce irrelevant or redundant features.
+
+### Algorithms & Model Development
+
+- **Supervised learning:** regression and classification fundamentals.
+- **Unsupervised learning:** clustering concepts and use cases.
 - **Dimensionality reduction:** PCA and LDA concepts.
+- **Model development:** establish training/testing workflows, fit models and compare approaches.
+
+### Model Evaluation
+
+- Understand the purpose of train/test separation and validation.
+- Select evaluation metrics appropriate to the problem.
+- Interpret model results rather than relying on a single score.
+- Recognize overfitting, underfitting and generalization issues.
 
 **Practice stack:** Python · NumPy · Pandas · Scikit-learn
 
-<h2 align="left">05 &nbsp; / &nbsp; AI TOOLS, MODELS & PLATFORMS</h2>
+<h2 align="left">05 &nbsp; / &nbsp; APPLIED AI & GENERATIVE AI SYSTEMS</h2>
+
+My AI interests focus on turning model capabilities into useful application features. I’m particularly interested in the engineering layers around a model: application logic, context, tools, retrieval, workflow design and output quality.
+
+### LLM Application Engineering
+
+- Integrate language models into software through model APIs.
+- Design prompts and structured outputs around a specific application task.
+- Connect model responses to application logic and user workflows.
+- Manage context and handle incomplete, unexpected or invalid responses.
+
+### Retrieval-Augmented Generation (RAG)
+
+- Understand how external knowledge can be prepared and supplied to a language model.
+- Explore document ingestion, chunking, embeddings and retrieval as parts of a knowledge pipeline.
+- Examine how retrieved context can improve relevance and grounding.
+- Consider retrieval quality and source relevance when evaluating responses.
+
+### AI Agents & Workflow Automation
+
+- Explore tool calling and function calling so models can interact with external capabilities.
+- Break larger tasks into smaller steps and coordinate multi-step workflows.
+- Understand how agents use tools, observe results and decide what to do next.
+- Connect model-driven workflows with APIs and application services.
+
+### Evaluation, Reliability & AI Engineering
+
+- Validate generated outputs before using them in an application.
+- Test normal cases, edge cases and failure paths.
+- Use clear instructions, relevant context and constraints to guide model behaviour.
+- Explore evaluation, guardrails, error handling and human review.
+- Study harness engineering: the tools, tests and feedback loops surrounding an AI workflow.
+
+**Development practices I explore:** prompt engineering · context engineering · vibe coding · AI pair programming · iterative build/test/review/refine workflows.
+
+<h2 align="left">06 &nbsp; / &nbsp; AI TOOLS, MODELS & PLATFORMS</h2>
 
 Tools and platforms I use or have explored across AI-assisted development, model experimentation, application projects and structured learning.
 
@@ -123,7 +177,7 @@ Used for structured learning and AI-related courses and credentials.
 
 **How I work with these tools:** define the task, provide relevant context, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. AI output is a suggestion to verify—not automatically correct code.
 
-<h2 align="left">06 &nbsp; / &nbsp; SELECTED PROJECTS</h2>
+<h2 align="left">07 &nbsp; / &nbsp; SELECTED PROJECTS</h2>
 
 <table>
 <tr>
@@ -174,7 +228,7 @@ A console application for recording coding sessions and reviewing practice activ
 </tr>
 </table>
 
-<h2 align="left">07 &nbsp; / &nbsp; ENGINEERING PRINCIPLES</h2>
+<h2 align="left">08 &nbsp; / &nbsp; ENGINEERING PRINCIPLES</h2>
 
 <div align="center">
 
@@ -184,7 +238,7 @@ A console application for recording coding sessions and reviewing practice activ
 
 I aim to understand the requirement before coding, plan the smallest useful implementation, inspect the result, test normal and failure cases, and improve it based on evidence. This is especially important when using AI coding assistants: generated code is a starting point, not proof that a task is complete.
 
-<h2 align="left">08 &nbsp; / &nbsp; GITHUB ACTIVITY</h2>
+<h2 align="left">09 &nbsp; / &nbsp; GITHUB ACTIVITY</h2>
 
 <div align="center">
 
@@ -192,7 +246,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </div>
 
-<h2 align="left">09 &nbsp; / &nbsp; CREDENTIALS & CONTINUED LEARNING</h2>
+<h2 align="left">10 &nbsp; / &nbsp; CREDENTIALS & CONTINUED LEARNING</h2>
 
 <details>
 <summary><strong>View certificates, courses and digital badges</strong></summary>
@@ -229,7 +283,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </details>
 
-<h2 align="left">10 &nbsp; / &nbsp; CONNECT</h2>
+<h2 align="left">11 &nbsp; / &nbsp; CONNECT</h2>
 
 <div align="center">
 
