@@ -45,42 +45,66 @@ Preparing for entry-level AI engineering opportunities focused on designing, dev
 
 These are my career interests and learning areas, not claims of professional experience.
 
-## 🧩 Technical Skills
+## 🧩 Technical Toolkit
 
-A focused snapshot of the programming languages, data libraries and development tools I currently know and practise.
+<div align="center">
 
-### 💻 Programming Languages
+**A practical toolkit for building software and exploring Applied AI.**
 
-| Technology | Current level |
-|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Fundamentals |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) **C** | Intermediate |
+</div>
 
-### 📊 Data & Scientific Python
+### 💻 Languages
 
-| Library | What I use it for |
-|---|---|
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) **NumPy** | Array operations and numerical computing practice |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) **Pandas** | Working with tabular data and DataFrame fundamentals |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-### 🔍 ML Concepts Practised
+### 🖥️ Application Development
 
-Concepts I have been studying and practising as part of my ML foundation:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
-- Data preprocessing and data quality checks.
-- Identifying and handling outliers.
-- Feature engineering: feature extraction, feature construction and feature selection.
-- Understanding model training and evaluation workflows.
+### 🧠 Data & Machine Learning
 
-### 🔧 Developer Tools
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- Data preparation and preprocessing
+- Feature extraction, feature construction and feature selection
+- Outlier handling and exploratory data analysis
+- Regression, classification and model evaluation fundamentals
 
-**Development workflow:** version control, repository management and maintaining project code on GitHub.
+### 🔌 APIs, Databases & Platforms
 
-> AI assistants and coding environments are listed separately under **AI Tools I Use & Explore**, so programming skills, libraries and AI tools remain clearly distinguished.
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini API"/>
+</p>
 
+### ⚙️ Developer Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+*Grouped by what I have studied, used or worked with in projects. AI assistants and coding agents are listed separately below.*
+ 
 ## 🧠 Machine Learning Foundations
 
 A practical foundation in the concepts and workflows behind machine-learning applications:
