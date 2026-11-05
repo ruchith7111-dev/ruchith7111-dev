@@ -43,9 +43,9 @@ My focus is turning AI capabilities into useful software: understanding the fund
 
 <sub>These are my career targets and learning areas—not claims of professional experience.</sub>
 
-## <img src="https://img.shields.io/badge/03-TECH%20STACK-00D9FF?style=flat-square&labelColor=071426" alt="03 Tech stack"/> TECHNICAL SYSTEMS
+## TECHNICAL STACK
 
-### LANGUAGES
+### PROGRAMMING LANGUAGES
 <p>
 <img src="https://img.shields.io/badge/Python-0B1B31?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python"/>
 <img src="https://img.shields.io/badge/C-0B1B31?style=for-the-badge&logo=c&logoColor=00D9FF" alt="C"/>
@@ -54,14 +54,14 @@ My focus is turning AI capabilities into useful software: understanding the fund
 <img src="https://img.shields.io/badge/JavaScript-0B1B31?style=for-the-badge&logo=javascript&logoColor=00D9FF" alt="JavaScript"/>
 </p>
 
-### DATA / MACHINE LEARNING
+### DATA ENGINEERING & MACHINE LEARNING
 <p>
 <img src="https://img.shields.io/badge/NumPy-0B1B31?style=for-the-badge&logo=numpy&logoColor=00D9FF" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-0B1B31?style=for-the-badge&logo=pandas&logoColor=00D9FF" alt="Pandas"/>
 <img src="https://img.shields.io/badge/scikit--learn-0B1B31?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF" alt="scikit-learn"/>
 </p>
 
-### APIs / DATA / DEVELOPER TOOLS
+### INTEGRATION LAYER & DEVELOPER TOOLING
 <p>
 <img src="https://img.shields.io/badge/REST_APIs-0B1B31?style=for-the-badge" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/Supabase-0B1B31?style=for-the-badge&logo=supabase&logoColor=00D9FF" alt="Supabase"/>
@@ -74,7 +74,7 @@ My focus is turning AI capabilities into useful software: understanding the fund
 
 <sub>Skills shown reflect topics studied, tools used or technologies encountered in projects. No proficiency levels are implied.</sub>
 
-## <img src="https://img.shields.io/badge/04-ML%20CORE-00D9FF?style=flat-square&labelColor=071426" alt="04 ML core"/> MACHINE LEARNING FOUNDATION
+## MACHINE LEARNING & DATA SCIENCE
 
 - **Fundamentals** — learning approaches and common ML workflows
 - **Data preparation** — understanding data, preprocessing and quality checks
@@ -82,7 +82,7 @@ My focus is turning AI capabilities into useful software: understanding the fund
 - **Model development** — training and practical implementation
 - **Evaluation** — metrics, interpretation and performance checks
 
-## <img src="https://img.shields.io/badge/05-ACTIVE%20RESEARCH-00D9FF?style=flat-square&labelColor=071426" alt="05 Active research"/> CURRENT EXPLORATION
+## APPLIED AI R&D // ACTIVE DOMAINS
 
 | Track | Topics |
 |:--|:--|
@@ -93,7 +93,7 @@ My focus is turning AI capabilities into useful software: understanding the fund
 | HARNESS | Tests, tools and feedback loops around AI workflows |
 | AI-DEV | AI-assisted coding, prototyping and code review |
 
-### AI TOOLCHAIN
+### AI DEVELOPMENT TOOLCHAIN
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-0B1B31?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="ChatGPT"/>
 <img src="https://img.shields.io/badge/OpenAI_Codex-0B1B31?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="OpenAI Codex"/>
@@ -106,7 +106,7 @@ My focus is turning AI capabilities into useful software: understanding the fund
 
 <sub>AI tools assist my workflow; I remain responsible for reviewing, testing and validating their output.</sub>
 
-## <img src="https://img.shields.io/badge/06-DEPLOYED%20BUILDS-00D9FF?style=flat-square&labelColor=071426" alt="06 Builds"/> PROJECT ARCHIVE
+## SELECTED ENGINEERING BUILDS
 
 ### 01 — [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
 AI-assisted resume parsing application that extracts structured candidate information from PDF files using Google Gemini.
