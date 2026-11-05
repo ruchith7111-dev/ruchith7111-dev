@@ -74,7 +74,7 @@ A Python console application for tracking skills and practice time.
 
 - Adds, updates, filters and reviews skill records.
 - Logs practice hours and derives levels using configurable hours-per-level rules.
-- Tracks targets, summarizes progress and supports data export.
+- Tracks targets, summarizes progress and supports data export, including optional PDF export.
 - Uses JSON persistence and includes unit tests.
 
 ### [CodeWhiz](https://github.com/ruchith7111-dev/CodeWhiz)
