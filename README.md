@@ -12,20 +12,20 @@
 
 ---
 
-## SYSTEM IDENTITY
+## PROFILE OVERVIEW
 
-I'm **Kamalampally Ruchith Reddy**, a Computer Science undergraduate (2028) focused on becoming an **Applied AI / Generative AI Engineer**.
+I'm **Kamalampally Ruchith Reddy**, a Computer Science undergraduate (Class of 2028) pursuing the path of an **Applied AI Engineer specialising in Generative AI**.
 
-I’m interested in turning model capabilities into useful software: connecting LLMs to applications, designing agentic workflows, evaluating outputs, and improving systems through deliberate iteration.
+My focus is building useful AI-powered software by integrating language models into applications, designing tool-using workflows, and validating system behaviour through testing and evaluation.
 
-| SIGNAL | PROFILE |
+| PROFILE AREA | DETAILS |
 |:--|:--|
-| Direction | Applied AI · Generative AI Engineering |
-| Problem space | LLM applications · AI agents · workflow automation |
-| Working loop | Understand → Build → Test → Evaluate → Refine |
+| Career direction | Applied AI · Generative AI Engineering |
+| Core interests | LLM applications · AI agents · workflow automation |
+| Engineering approach | Understand → Build → Test → Evaluate → Refine |
 | Education | B.Tech · Computer Science · 2028 |
 
-## ENGINEERING INTERESTS
+## AI ENGINEERING FOCUS
 
 - **LLM applications** — model integration, structured outputs and practical AI features
 - **Agentic systems** — tool use, multi-step workflows and automation
@@ -33,9 +33,9 @@ I’m interested in turning model capabilities into useful software: connecting 
 - **AI-assisted development** — using coding agents while reviewing and validating generated work
 - **Harness engineering** — exploring the tooling, constraints and feedback loops around AI systems
 
-## TECHNICAL TOOLKIT
+## TECHNICAL SKILLS
 
-**Programming & data**
+**Programming languages & data libraries**
 
 <p>
 <img src="https://img.shields.io/badge/Python-14201B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
@@ -45,7 +45,7 @@ I’m interested in turning model capabilities into useful software: connecting 
 <img src="https://img.shields.io/badge/Pandas-14201B?style=for-the-badge&logo=pandas&logoColor=E8D8FF" alt="Pandas"/>
 </p>
 
-**Developer workflow**
+**Version control & collaboration**
 
 <p>
 <img src="https://img.shields.io/badge/Git-14201B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
@@ -54,7 +54,7 @@ I’m interested in turning model capabilities into useful software: connecting 
 
 <sub>Only technologies already confirmed in my learning or practice are listed here. No proficiency ratings are implied.</sub>
 
-## AI DEVELOPMENT TOOLCHAIN
+## AI TOOLS & DEVELOPMENT WORKFLOW
 
 <p>
 <img src="https://img.shields.io/badge/Claude-14201B?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude"/>
@@ -68,7 +68,7 @@ I’m interested in turning model capabilities into useful software: connecting 
 
 AI tools are part of my development workflow—not a substitute for understanding, code review, testing or validation.
 
-## SELECTED BUILDS
+## PROJECTS & IMPLEMENTATIONS
 
 ### [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
 An AI-assisted application that extracts structured candidate information from PDF resumes using Google's Gemini API.
@@ -91,13 +91,13 @@ A Python console application for recording and reviewing coding practice session
 - Filter by language or category
 - Generate summaries with persistent JSON storage
 
-## MACHINE LEARNING FOUNDATIONS
+## MACHINE LEARNING
 
-Core areas I’m studying and practising:
+Machine learning foundations covered in my learning path:
 
 **ML workflows** · **Data preparation** · **Feature engineering** · **Model training** · **Evaluation** · **Interpretation**
 
-## ACTIVITY SIGNAL
+## GITHUB ACTIVITY
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Core areas I’m studying and practising:
 
 </div>
 
-## CONNECT
+## CONTACT & LINKS
 
 <p>
 <a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/Explore_my_GitHub-14201B?style=flat-square&logo=github&logoColor=D9FF83" alt="GitHub"/></a>
