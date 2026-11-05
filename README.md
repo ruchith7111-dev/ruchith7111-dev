@@ -14,42 +14,61 @@
 
 ## About Me
 
-I'm **Kamalampally Ruchith Reddy**, a Computer Science undergraduate (Class of 2028) focused on building a career in **AI Engineering**, particularly **Applied AI and Generative AI**.
+Hi, I'm **Kamalampally Ruchith Reddy** — a **B.Tech Computer Science Engineering student, graduating in 2028**, from India. I'm working toward becoming an **AI Engineer**, with a particular interest in **Applied AI and Generative AI**.
 
-I'm interested in the engineering behind useful AI applications: integrating language models into software, connecting models with tools and data, designing reliable workflows, and evaluating the output rather than accepting it blindly.
+What interests me most is the practical engineering side of artificial intelligence: taking a model or an AI capability and turning it into something people can actually use. That includes connecting language models to applications, working with data, giving models access to tools, designing useful workflows, and checking whether the results are reliable.
 
-I enjoy learning through hands-on experimentation, understanding how systems work, and turning ideas into practical projects.
+I'm building my foundation through programming, Machine Learning study, hands-on experiments and personal software projects. I enjoy understanding how a system works, breaking a problem into smaller parts, trying an implementation, finding what does not work, and improving it. I also explore AI coding assistants as part of that process, while treating code review and testing as my responsibility.
 
-| Profile area | Details |
+**The kind of engineer I'm working toward:** someone who can understand a problem, choose an appropriate AI approach, connect the required models and tools, build the surrounding software, and evaluate the finished solution.
+
+| Profile | Details |
 |:--|:--|
-| **Education** | B.Tech · Computer Science Engineering · Class of 2028 |
-| **Career direction** | Aspiring AI Engineer · Applied AI · Generative AI |
-| **Core interests** | Machine Learning · LLM applications · AI agents · automation |
-| **Development approach** | Understand → Plan → Build → Review → Test → Refine |
-| **Technical interests** | Python · data libraries · AI-assisted development |
+| **Education** | B.Tech · Computer Science Engineering |
+| **Graduation** | 2028 |
+| **Career goal** | AI Engineer / Applied AI Engineer |
+| **Specialisation interest** | Generative AI · LLM applications · Agentic AI |
+| **Technical foundation** | Python · C · Java · NumPy · Pandas · Git |
+| **Based in** | India |
 
-## Career Focus
+## Career Direction
 
 ### Aspiring AI Engineer | Applied AI & Generative AI
 
-My goal is to build software that uses artificial intelligence to solve practical problems. The areas I am working toward include:
+My target is an engineering role where I can build and integrate AI capabilities into real software rather than work only with isolated model experiments. I'm especially interested in the following areas:
 
-- **Applied AI Engineering** — integrating models and APIs into useful software products.
-- **Generative AI Development** — building applications around generative models and language-model capabilities.
-- **LLM Application Engineering** — model integration, structured outputs, retrieval patterns and application workflows.
-- **AI Agents & Automation** — tool use, multi-step tasks, agentic workflows and task automation.
-- **AI Engineering Practices** — prompt and context design, evaluation, testing, observability and dependable workflows.
+**Applied AI Engineering**  
+Building software features around AI models and APIs. This includes understanding the user problem, selecting a suitable model or service, connecting it to application logic, handling inputs and outputs, and making the feature usable within a larger product.
 
-These describe my career direction and areas of interest, not claims of professional experience.
+**Generative AI Engineering**  
+Developing applications that use generative models to create, transform, summarize or reason over information. I'm interested in how model capabilities can be turned into practical workflows with clear inputs, useful outputs and appropriate validation.
+
+**LLM Application Development**  
+Working with Large Language Models inside applications: sending prompts and context, handling structured responses, connecting external data, and designing application flows around model behaviour.
+
+**Agentic AI & Automation**  
+Exploring systems in which an AI model can use tools, follow a sequence of steps and interact with external services to complete a task. I'm interested in tool calling, task orchestration and workflows that combine models with software tools.
+
+**AI Systems Quality & Reliability**  
+Understanding how to test AI-powered features, evaluate model output, handle failure cases and improve reliability. A working AI demo is only one part of an engineering solution; the surrounding software and verification matter too.
+
+These are my intended career areas and learning interests. They are not a claim of professional experience in each specialisation.
 
 ## Technical Skills
+
+The technologies below reflect the programming languages, data libraries and developer tools I have identified as familiar and have used or practised. I keep this list focused rather than adding every technology associated with AI engineering.
 
 ### Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-25483D?style=for-the-badge&logo=python&logoColor=F5F0E6" alt="Python"/>
 <img src="https://img.shields.io/badge/C-25483D?style=for-the-badge&logo=c&logoColor=F5F0E6" alt="C"/>
+<img src="https://img.shields.io/badge/Java-25483D?style=for-the-badge&logo=openjdk&logoColor=F5F0E6" alt="Java"/>
 </p>
+
+- **Python:** my main language for learning, scripting, data work and Machine Learning practice.
+- **C:** part of my programming foundation and problem-solving practice.
+- **Java:** another language in my Computer Science programming foundation.
 
 ### Data Libraries
 
@@ -58,6 +77,9 @@ These describe my career direction and areas of interest, not claims of professi
 <img src="https://img.shields.io/badge/Pandas-A95C40?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
 </p>
 
+- **NumPy:** numerical arrays and operations that support data-oriented and ML work.
+- **Pandas:** working with tabular data, inspecting datasets and carrying out data manipulation and preparation.
+
 ### Developer Tools & Version Control
 
 <p>
@@ -65,69 +87,92 @@ These describe my career direction and areas of interest, not claims of professi
 <img src="https://img.shields.io/badge/GitHub-25483D?style=for-the-badge&logo=github&logoColor=F5F0E6" alt="GitHub"/>
 </p>
 
-<sub>These are the technologies I have identified as familiar. No proficiency levels are implied.</sub>
+- **Git:** tracking source-code changes and maintaining project history.
+- **GitHub:** hosting repositories, documenting projects and sharing code.
+
+No proficiency levels are attached to these skills. The list is intended to show the technologies I can discuss and work with, not to imply expert-level mastery.
 
 ## Machine Learning Foundations
 
-This section describes the Machine Learning concepts and workflows that form part of my technical foundation.
+Machine Learning is an important part of the technical foundation I'm developing for AI Engineering. My focus is on understanding the complete workflow behind a model: defining the problem, preparing data, selecting useful features, training an algorithm and evaluating the result.
 
-### Core Concepts & Workflows
+### Data Understanding & Preparation
 
-- **ML fundamentals** — learning approaches, problem framing and common algorithm workflows.
-- **Data understanding** — exploratory data analysis, data quality and understanding distributions.
-- **Data preparation** — preprocessing, missing values, outlier detection and handling.
-- **Feature engineering** — feature extraction, feature construction and feature selection.
-- **Model development** — training workflows and practical implementation with Python-based tools.
-- **Model evaluation** — evaluation metrics, interpreting results and understanding model performance.
+- **Exploratory Data Analysis (EDA):** inspecting datasets, understanding columns and distributions, spotting patterns and identifying data-quality issues.
+- **Data preprocessing:** preparing raw data for modelling, including handling missing values, inconsistent formats and unsuitable input values.
+- **Outlier handling:** identifying unusual observations, understanding their possible causes and deciding how they should be treated.
+- **Data transformation:** preparing numerical and categorical information in forms that algorithms can use.
 
-### Algorithms & Methods
+### Feature Engineering
 
-- Regression and classification fundamentals.
-- Clustering and unsupervised-learning concepts.
-- Model comparison and evaluation.
-- Dimensionality-reduction concepts such as PCA, as part of the broader ML learning path.
+- **Feature extraction:** deriving useful information from existing raw data.
+- **Feature construction:** creating new input variables from existing columns or domain relationships.
+- **Feature selection:** identifying useful variables and reducing irrelevant or redundant inputs.
 
-### Tools & Practice
+### Model Development
 
-- Python for machine-learning workflows.
-- NumPy for numerical operations.
-- Pandas for data manipulation and preparation.
-- Scikit-learn concepts and practical ML workflows.
+- **Regression:** understanding models used to predict continuous numerical values.
+- **Classification:** understanding models used to assign inputs to categories.
+- **Clustering:** exploring unsupervised methods that group similar observations.
+- **Model training:** separating data appropriately, fitting models and understanding the role of training and testing data.
+- **Dimensionality reduction:** learning concepts such as PCA and why reducing the number of input dimensions can be useful.
+
+### Model Evaluation
+
+- Understanding why a model must be evaluated on data it was not trained on.
+- Comparing model performance using suitable evaluation metrics.
+- Interpreting evaluation results instead of relying on a single score.
+- Recognising issues such as overfitting and underfitting.
+
+### Tools Used in ML Practice
+
+Python, NumPy and Pandas form the data-handling foundation for my ML work. Scikit-learn is the library I'm using to understand and practise common model workflows.
 
 ## Current AI Focus
 
-| Focus area | What I am exploring |
+Alongside the Machine Learning foundation above, these are the AI engineering topics I am exploring in more depth.
+
+| Area | What I'm learning and why it matters |
 |:--|:--|
-| **Generative AI** | LLM fundamentals, model capabilities and practical application patterns |
-| **LLM Application Development** | Connecting model APIs with application logic and user workflows |
-| **Retrieval-Augmented Generation** | How external knowledge can be prepared and retrieved for LLM applications |
-| **AI Agents** | Tool calling, multi-step tasks and agentic workflows |
-| **Prompt Engineering** | Writing, structuring and refining instructions for better outputs |
-| **Context Engineering** | Selecting and organizing the information an AI system needs |
-| **Harness Engineering** | Exploring tools, checks, evaluation and feedback loops around AI workflows |
+| **Generative AI** | Understanding the capabilities and limitations of generative models, and where they are useful in applications. |
+| **LLM application development** | Connecting language models to application logic, formatting responses and handling model outputs. |
+| **Retrieval-Augmented Generation (RAG)** | Understanding how an application can retrieve relevant external information and provide it to an LLM as context. |
+| **AI agents & tool calling** | Exploring how models can select and use tools, carry out multi-step tasks and interact with external systems. |
+| **Prompt engineering** | Writing, structuring and refining instructions to guide model behaviour toward useful outputs. |
+| **Context engineering** | Selecting, organizing and supplying the information a model needs to complete a task accurately. |
+| **Harness engineering** | Exploring the tools, constraints, tests and feedback loops that surround an AI workflow and make it more dependable. |
 
 ## AI Engineering Interests
 
+I'm interested not only in AI models, but also in the changing way software is designed and developed with AI assistance.
+
 ### AI-Assisted Software Development
 
-- **Vibe coding** — using AI coding tools to explore ideas and prototype while reviewing the generated work.
-- **AI pair programming** — collaborating with coding assistants for implementation, debugging and code review.
-- **Iterative engineering** — using a build → test → review → refine loop instead of accepting the first output.
-- **Prompt engineering** — structuring instructions and constraints to guide AI tools.
-- **Context engineering** — preparing relevant context so AI systems can work with the right information.
-- **Harness engineering** — exploring the tools, checks, guardrails and evaluation loops that make AI-assisted workflows more dependable.
+**Vibe coding**  
+Using natural-language instructions and AI coding tools to explore an idea, create an initial implementation and iterate on it. I see it as a way to accelerate exploration, not as a reason to skip understanding the code.
+
+**AI pair programming**  
+Working with a coding assistant to discuss implementation options, generate or revise code, investigate errors and review possible improvements. The final implementation still needs to be understood and checked.
+
+**Prompt engineering**  
+Designing instructions with a clear goal, relevant context, constraints and expected output. Good prompts make a task easier to communicate, but the result still needs validation.
+
+**Context engineering**  
+Providing the right files, project structure, requirements and relevant background to an AI tool. The quality of the context can strongly affect how useful the output is.
+
+**Iterative engineering loops**  
+Following a deliberate cycle: understand the task, plan the change, build, run it, inspect the result, test edge cases and refine. This is the workflow I want to strengthen when working with both AI-generated and manually written code.
+
+**Harness engineering**  
+Exploring the environment around AI agents and coding tools: instructions, tool access, constraints, tests, feedback and evaluation. The goal is to make AI-assisted work more controlled, repeatable and verifiable.
 
 ### AI Systems & Automation
 
-- LLM-powered application design.
-- Tool calling and external integrations.
-- Multi-step agent workflows.
-- Workflow automation.
-- Output validation and evaluation.
+My broader interests include connecting models to external tools, designing multi-step workflows, automating repetitive tasks, validating generated outputs and understanding how individual AI components work together as a complete application.
 
 ## AI Tools & Development Workflow
 
-Tools I use or explore for learning, coding, research and experimentation.
+These are the AI tools I use or explore as part of learning, research, coding and experimentation. I keep the tool list separate from my technical skills because using an AI assistant is different from having proficiency in a programming language or framework.
 
 ### AI Assistants & Models
 
@@ -146,58 +191,99 @@ Tools I use or explore for learning, coding, research and experimentation.
 <img src="https://img.shields.io/badge/Antigravity-A95C40?style=flat-square&logo=google&logoColor=FFFFFF" alt="Antigravity"/>
 </p>
 
-### How I Use AI in Development
+### How These Tools Fit Into My Workflow
 
-- Understand unfamiliar concepts and technologies.
-- Break down application ideas into manageable tasks.
-- Explore implementation approaches and generate code suggestions.
-- Debug errors and review alternative solutions.
-- Test generated code and check whether it behaves as intended.
-- Refine prompts and context when the output is incomplete or inaccurate.
+- **Learning:** clarifying concepts, comparing approaches and breaking unfamiliar topics into understandable steps.
+- **Planning:** outlining project requirements, organizing tasks and considering implementation options.
+- **Development:** using coding assistants to explore code, draft changes and work through implementation problems.
+- **Debugging:** investigating errors, understanding possible causes and comparing fixes.
+- **Review & validation:** reading the generated code, checking assumptions, running tests and verifying actual behaviour.
+- **Iteration:** improving prompts, context and implementation when the first result is incomplete or incorrect.
 
-AI tools support my development workflow; understanding, verification, testing and responsibility remain essential.
+I treat AI tools as assistants in the engineering process. Understanding the code, making technical decisions and validating the final result remain my responsibility.
 
 ## Featured Projects
 
+These projects show different parts of my practical development work: AI-assisted document processing, Python application logic, data persistence, command-line workflows and testing.
+
 ### 01 · [AI Resume Parser](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
 
-An AI-assisted application that extracts structured candidate information from PDF resumes using Google's Gemini API.
+**An AI-assisted resume information extraction application**
 
-**Key functionality**
-- Accepts PDF resumes and extracts their text.
-- Uses Gemini to generate structured resume information.
-- Provides a dashboard to view, search and manage parsed resumes.
-- Stores parsed information locally in JSON.
+The AI Resume Parser takes a PDF resume, extracts its text and uses Google's Gemini API to turn the unstructured content into structured candidate information. The parsed information is stored locally and made available through a dashboard for review and search.
+
+**How the application works**
+
+`PDF upload → Text extraction → Gemini parsing → Structured JSON → Resume dashboard`
+
+**What it does**
+- Accepts PDF resumes through an upload interface, including drag-and-drop.
+- Extracts text from PDF files using `pdf-parse`.
+- Sends the extracted resume text to the Gemini API for structured information extraction.
+- Organizes information such as contact details, professional summary, skills, work experience, education and certifications.
+- Stores parsed records in a local JSON data file and keeps uploaded PDFs in a local uploads directory.
+- Provides resume search, detailed views and deletion, with error handling for invalid files and parsing failures.
+
+**What this project demonstrates:** connecting an external AI model to a software workflow, processing document input, turning unstructured text into structured data, and presenting the result in an application.
+
+[Explore the AI Resume Parser repository](https://github.com/ruchith7111-dev/Ai_Resume_Parser)
 
 ### 02 · [SkillForge](https://github.com/ruchith7111-dev/SkillForge)
 
-A Python console application for tracking skills, practice hours and learning progress.
+**A Python-based personal skill and practice tracker**
 
-**Key functionality**
-- Create, update, delete and filter skill records.
-- Track practice hours and calculate skill levels.
-- Summarize learning progress.
-- Export data and persist records in JSON.
+SkillForge is a console application for recording skills and tracking the time spent practising them. It stores the records in JSON and derives a skill level from logged practice hours according to configurable application rules.
+
+**What it does**
+- Add, update and filter skill records.
+- Log practice hours and review accumulated effort.
+- Derive a level from practice hours using the configured hours-per-level rule.
+- Track whether a skill has reached its target.
+- Summarize learning progress and export information.
+- Keep data between runs using JSON storage.
+- Include unit tests for the application logic.
+
+**What this project demonstrates:** organizing application logic in Python, working with persistent data, implementing business rules, building a command-line workflow and testing core behaviour.
+
+[Explore the SkillForge repository](https://github.com/ruchith7111-dev/SkillForge)
 
 ### 03 · [CodeWhiz](https://github.com/ruchith7111-dev/CodeWhiz)
 
-A Python console application for recording and reviewing coding practice sessions.
+**A Python coding-practice and habit tracker**
 
-**Key functionality**
-- Record, update and delete coding sessions.
+CodeWhiz records daily coding sessions so that practice can be reviewed over time. Each session stores its date, programming language, category, hours and notes. Data is saved in JSON and can be summarized through reports.
+
+**What it does**
+- Add, view, update and delete coding sessions.
+- Record the date, language, category, time spent and notes for each session.
 - Filter sessions by programming language or category.
-- Generate summary reports.
-- Persist session data in JSON.
+- Generate summary reports with total practice hours and category-wise effort.
+- Persist session records in a JSON file.
+- Handle missing or corrupted data files and invalid input.
+- Include unit tests using Python's standard library.
 
-## Engineering Approach
+**What this project demonstrates:** Python application structure, data management, input validation, report generation, JSON persistence and unit testing.
+
+[Explore the CodeWhiz repository](https://github.com/ruchith7111-dev/CodeWhiz)
+
+## How I Approach Engineering
+
+I prefer a development process that makes the problem and the result clear rather than focusing only on producing code quickly.
 
 <div align="center">
 
-**UNDERSTAND** &nbsp; → &nbsp; **PLAN** &nbsp; → &nbsp; **BUILD** &nbsp; → &nbsp; **REVIEW** &nbsp; → &nbsp; **TEST** &nbsp; → &nbsp; **REFINE**
+**UNDERSTAND** → **PLAN** → **BUILD** → **REVIEW** → **TEST** → **REFINE**
 
 </div>
 
-I aim to keep the development process practical: understand the requirement, plan a solution, build it, verify its behaviour, and improve it through feedback.
+1. **Understand:** clarify the requirement, expected behaviour and constraints.
+2. **Plan:** split the work into manageable steps and identify the components involved.
+3. **Build:** implement the solution and connect the required pieces.
+4. **Review:** inspect the code and check whether the implementation matches the intended design.
+5. **Test:** try expected cases, invalid inputs and possible failure scenarios.
+6. **Refine:** fix issues and improve the implementation based on what the checks reveal.
+
+This approach is especially important when using AI coding assistants: generated code is a starting point to inspect and validate, not proof that a task is complete.
 
 ## GitHub Activity & Contributions
 
@@ -257,6 +343,8 @@ I aim to keep the development process practical: understand the requirement, pla
 </details>
 
 ## Connect
+
+If you're interested in Applied AI, Generative AI, practical software projects or learning in public, you can find me here:
 
 <p>
 <a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-25483D?style=for-the-badge&logo=github&logoColor=F5F0E6" alt="GitHub"/></a>
