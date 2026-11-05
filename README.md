@@ -246,40 +246,46 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </div>
 
-<h2 align="left">10 &nbsp; / &nbsp; CREDENTIALS & CONTINUED LEARNING</h2>
+<h2 align="left">10 &nbsp; / &nbsp; VERIFIED CREDENTIALS & CONTINUED LEARNING</h2>
 
 <details>
-<summary><strong>View certificates, courses and digital badges</strong></summary>
+<summary><strong>Explore digital badges, certificates and learning achievements</strong></summary>
 
-**Course Completion Certificates**
+### Verified Digital Badges
+
+**Credly**
+
+- [Foundations in Generative AI](https://www.credly.com/badges/aae74aa1-d7c3-4465-a0fa-3019b5323a12/public_url) — IBM SkillsBuild · Issued 22 May 2026
+- [Additional Credly badge](https://www.credly.com/badges/f66222e7-2ea9-4085-99ea-0ffe2dd2822a/public_url) — open the badge record
+- [Additional Credly badge](https://www.credly.com/badges/fadc4d39-38c3-4e4d-a0f2-424309f20be9/public_url) — open the badge record
+
+**Google Cloud Skills Boost · July 2026**
+
+- [Introduction to Responsible AI](https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25272023)
+- [Introduction to Large Language Models](https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25271933)
+- [Introduction to Generative AI](https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25271659)
+
+### Course Completion Certificates
 
 | Certificate | Issuer | Completed |
 |:--|:--|:--|
-| [Foundations in Generative AI](https://www.credly.com/earner/earned/share/aae74aa1-d7c3-4465-a0fa-3019b5323a12) | IBM SkillsBuild | 22 May 2026 |
 | What Is Generative AI? | LinkedIn Learning | 2 February 2026 |
 
-**Additional Courses & Learning Achievements**
+### Additional Courses & Learning Achievements
 
 - Create Your First Gemini Enterprise Application — Google
 - Getting Started with Generative AI — IBM
 - GUVI Webinar: Master Dashboard Creation — HCL GUVI
-- Introduction to Generative AI — Google Cloud Skills Boost
-- Introduction to Large Language Models — Google Cloud Skills Boost
-- Introduction to Responsible AI — Google Cloud Skills Boost
 - AI Fluency for Students — Anthropic
 - 5-Day AI Agents Intensive Vibe Coding Course — Google & Kaggle
 - AI Skills Fest 2026 — Microsoft
 
-**IBM SkillsBuild Digital Stickers**
+### IBM SkillsBuild Digital Stickers
 
 - Introduction to Large Language Models
 - Ethical Considerations for Generative AI
 - Foundations in Generative AI
 - Build Your First Chatbot
-
-**Additional Credly Badge**
-
-[Open badge record](https://www.credly.com/earner/earned/badge/f66222e7-2ea9-4085-99ea-0ffe2dd2822a) — badge details have not been independently confirmed.
 
 </details>
 
