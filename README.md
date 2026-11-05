@@ -49,7 +49,6 @@ These describe my career direction and areas of interest, not claims of professi
 <p>
 <img src="https://img.shields.io/badge/Python-25483D?style=for-the-badge&logo=python&logoColor=F5F0E6" alt="Python"/>
 <img src="https://img.shields.io/badge/C-25483D?style=for-the-badge&logo=c&logoColor=F5F0E6" alt="C"/>
-<img src="https://img.shields.io/badge/Java-25483D?style=for-the-badge&logo=openjdk&logoColor=F5F0E6" alt="Java"/>
 </p>
 
 ### Data Libraries
