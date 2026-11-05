@@ -63,7 +63,7 @@ A focused snapshot of the programming languages, data libraries and development 
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) **NumPy** | Array operations and numerical computing practice |
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) **Pandas** | Working with tabular data and DataFrame fundamentals |
 
-### 🧠 Machine Learning Foundations
+### 🔍 ML Concepts Practised
 
 Concepts I have been studying and practising as part of my ML foundation:
 
