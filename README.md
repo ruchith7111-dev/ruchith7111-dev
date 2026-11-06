@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="left">01 &nbsp; / &nbsp; PROFILE</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/01-profile.svg" alt="01 / PROFILE" height="36" />
 
 I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science Engineering student (Class of 2028)** from India, working toward a career as an **AI Engineer**, focused on **Applied AI and Generative AI**.
 
@@ -24,7 +24,7 @@ I’m interested in the engineering behind useful AI products: connecting langua
 
 > **My direction:** turn AI capabilities into practical software — with clear application logic, useful integrations, thoughtful evaluation and dependable behaviour.
 
-<h2 align="left">02 &nbsp; / &nbsp; CAREER FOCUS</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/02-career-focus.svg" alt="02 / CAREER FOCUS" height="36" />
 
 My target is **Applied AI / AI Engineering**, with particular interest in:
 
@@ -36,7 +36,7 @@ My target is **Applied AI / AI Engineering**, with particular interest in:
 
 These are my career interests and learning focus, not claims of professional employment or expertise.
 
-<h2 align="left">03 &nbsp; / &nbsp; TECHNICAL TOOLKIT</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/03-technical-toolkit.svg" alt="03 / TECHNICAL TOOLKIT" height="36" />
 
 **Programming**
 
@@ -61,7 +61,7 @@ These are my career interests and learning focus, not claims of professional emp
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </p>
 
-<h2 align="left">04 &nbsp; / &nbsp; MACHINE LEARNING & DATA SCIENCE</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/04-machine-learning.svg" alt="04 / MACHINE LEARNING & DATA SCIENCE" height="36" />
 
 My Machine Learning foundation is organized around the end-to-end model workflow: understanding a problem, preparing data, developing features, training models and interpreting results.
 
@@ -93,7 +93,7 @@ My Machine Learning foundation is organized around the end-to-end model workflow
 
 **Practice stack:** Python · NumPy · Pandas · Scikit-learn
 
-<h2 align="left">05 &nbsp; / &nbsp; APPLIED AI & GENERATIVE AI SYSTEMS</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/05-applied-ai.svg" alt="05 / APPLIED AI & GENERATIVE AI SYSTEMS" height="36" />
 
 My AI interests focus on turning model capabilities into useful application features. I’m particularly interested in the engineering layers around a model: application logic, context, tools, retrieval, workflow design and output quality.
 
@@ -128,7 +128,7 @@ My AI interests focus on turning model capabilities into useful application feat
 
 **Development practices I explore:** prompt engineering · context engineering · vibe coding · AI pair programming · iterative build/test/review/refine workflows.
 
-<h2 align="left">06 &nbsp; / &nbsp; AI TOOLS, MODELS & PLATFORMS</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/06-ai-tools.svg" alt="06 / AI TOOLS, MODELS & PLATFORMS" height="36" />
 
 Tools and platforms I use or have explored across AI-assisted development, model experimentation, application projects and structured learning.
 
@@ -177,7 +177,7 @@ Used for structured learning and AI-related courses and credentials.
 
 **How I work with these tools:** define the task, provide relevant context, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. AI output is a suggestion to verify—not automatically correct code.
 
-<h2 align="left">07 &nbsp; / &nbsp; SELECTED PROJECTS</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/07-projects.svg" alt="07 / SELECTED PROJECTS" height="36" />
 
 <table>
 <tr>
@@ -228,7 +228,7 @@ A console application for recording coding sessions and reviewing practice activ
 </tr>
 </table>
 
-<h2 align="left">08 &nbsp; / &nbsp; ENGINEERING PRINCIPLES</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/08-engineering-principles.svg" alt="08 / ENGINEERING PRINCIPLES" height="36" />
 
 <div align="center">
 
@@ -238,7 +238,7 @@ A console application for recording coding sessions and reviewing practice activ
 
 I aim to understand the requirement before coding, plan the smallest useful implementation, inspect the result, test normal and failure cases, and improve it based on evidence. This is especially important when using AI coding assistants: generated code is a starting point, not proof that a task is complete.
 
-<h2 align="left">09 &nbsp; / &nbsp; GITHUB ACTIVITY</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/09-github-activity.svg" alt="09 / GITHUB ACTIVITY" height="36" />
 
 <div align="center">
 
@@ -246,7 +246,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </div>
 
-<h2 align="left">10 &nbsp; / &nbsp; VERIFIED CREDENTIALS & CONTINUED LEARNING</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/10-credentials.svg" alt="10 / VERIFIED CREDENTIALS & CONTINUED LEARNING" height="36" />
 
 <details>
 <summary><strong>Explore digital badges, certificates and learning achievements</strong></summary>
@@ -289,7 +289,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </details>
 
-<h2 align="left">11 &nbsp; / &nbsp; CONNECT</h2>
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/11-connect.svg" alt="11 / CONNECT" height="36" />
 
 <div align="center">
 

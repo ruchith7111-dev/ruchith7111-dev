@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="58" viewBox="0 0 840 58" role="img" aria-labelledby="title desc">
+<title id="title">01 / PROFILE</title>
+<desc id="desc">Bold section heading in an ink navy and electric lime portfolio style.</desc>
+<rect x="1" y="1" width="838" height="56" rx="8" fill="#17283A" stroke="#4B6870" stroke-opacity=".6"/>
+<rect x="1" y="1" width="7" height="56" rx="3.5" fill="#D8FF63"/>
+<text x="30" y="37" fill="#D8FF63" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="900" letter-spacing="1.5">01</text>
+<path d="M70 14V44" stroke="#72D8D0" stroke-opacity=".7"/>
+<text x="91" y="38" fill="#F4F7F2" stroke="#F4F7F2" stroke-width=".28" paint-order="stroke fill" font-family="Arial Black, Impact, Arial, sans-serif" font-size="27" font-weight="900" letter-spacing="1.05">PROFILE</text>
+<path d="M760 47H820" stroke="#D8FF63" stroke-width="2"/>
+</svg>
