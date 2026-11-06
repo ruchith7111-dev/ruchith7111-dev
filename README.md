@@ -61,7 +61,7 @@ These are my career interests and learning focus, not claims of professional emp
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/04-machine-learning.svg" alt="04 / MACHINE LEARNING & DATA SCIENCE" height="36" />
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/04-machine-learning.svg" alt="04 / MACHINE LEARNING &amp; DATA SCIENCE" height="36" />
 
 My Machine Learning foundation is organized around the end-to-end model workflow: understanding a problem, preparing data, developing features, training models and interpreting results.
 
@@ -93,7 +93,7 @@ My Machine Learning foundation is organized around the end-to-end model workflow
 
 **Practice stack:** Python · NumPy · Pandas · Scikit-learn
 
-## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/05-applied-ai.svg" alt="05 / APPLIED AI & GENERATIVE AI SYSTEMS" height="36" />
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/05-applied-ai.svg" alt="05 / APPLIED AI &amp; GENERATIVE AI SYSTEMS" height="36" />
 
 My AI interests focus on turning model capabilities into useful application features. I’m particularly interested in the engineering layers around a model: application logic, context, tools, retrieval, workflow design and output quality.
 
@@ -128,7 +128,7 @@ My AI interests focus on turning model capabilities into useful application feat
 
 **Development practices I explore:** prompt engineering · context engineering · vibe coding · AI pair programming · iterative build/test/review/refine workflows.
 
-## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/06-ai-tools.svg" alt="06 / AI TOOLS, MODELS & PLATFORMS" height="36" />
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/06-ai-tools.svg" alt="06 / AI TOOLS, MODELS &amp; PLATFORMS" height="36" />
 
 Tools and platforms I use or have explored across AI-assisted development, model experimentation, application projects and structured learning.
 
@@ -246,7 +246,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/10-credentials.svg" alt="10 / VERIFIED CREDENTIALS & CONTINUED LEARNING" height="36" />
+## <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/headings/10-credentials.svg" alt="10 / VERIFIED CREDENTIALS &amp; CONTINUED LEARNING" height="36" />
 
 <details>
 <summary><strong>Explore digital badges, certificates and learning achievements</strong></summary>
