@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=21&duration=2800&pause=950&color=D8FF63&center=true&vCenter=true&width=820&height=48&lines=ASPIRING+AI+ENGINEER;APPLIED+AI+%26+GENERATIVE+AI;BUILDING+PRACTICAL+AI+APPLICATIONS;LLMs+%7C+RAG+%7C+AI+AGENTS+%7C+AUTOMATION" alt="Animated role and focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=21&duration=2800&pause=900&color=64B5FF&center=true&vCenter=true&width=900&height=48&lines=AI+ENGINEER;APPLIED+AI+%26+GENERATIVE+AI;BUILDING+PRACTICAL+AI+APPLICATIONS;LLMs+%7C+RAG+%7C+AI+AGENTS+%7C+AUTOMATION" alt="Animated AI engineering role and focus"/>
 
 <br/>
 
@@ -16,17 +16,19 @@
 
 ---
 
-<h2 align="left">01 &nbsp; / &nbsp; PROFILE</h2>
+## ✦ 01 / PROFILE
 
-I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science Engineering student (Class of 2028)** from India, working toward a career as an **AI Engineer**, focused on **Applied AI and Generative AI**.
+I'm **Kamalampally Ruchith Reddy**, a **B.Tech Computer Science Engineering student (Class of 2028)** from India, aspiring to become an **AI Engineer**, specializing in **Applied AI and Generative AI**.
 
-I’m interested in the engineering behind useful AI products: connecting language models to applications and data, giving models access to tools, designing reliable workflows, and evaluating their outputs. I learn through programming, Machine Learning study, hands-on experiments and personal projects.
+My interest lies in building practical AI-powered applications by connecting language models with software, data, tools and real-world workflows. I focus on understanding how AI systems work, how they can be integrated into applications, and how their outputs can be evaluated for quality and reliability. I develop my foundation through programming, Machine Learning, hands-on experimentation, structured learning and personal projects.
 
-> **My direction:** turn AI capabilities into practical software — with clear application logic, useful integrations, thoughtful evaluation and dependable behaviour.
+> **My direction:** Engineer useful AI applications through thoughtful implementation, effective integrations, reliable workflows and continuous evaluation.
 
-<h2 align="left">02 &nbsp; / &nbsp; CAREER FOCUS</h2>
+## ✦ 02 / CAREER FOCUS
 
-My target is **Applied AI / AI Engineering**, with particular interest in:
+**Primary direction: AI Engineering | Applied AI | Generative AI**
+
+My career interests include:
 
 - **LLM application development** — model APIs, structured outputs, context-aware application workflows and integration with software systems.
 - **Retrieval-Augmented Generation (RAG)** — connecting language models to relevant external knowledge and improving answer grounding.
@@ -34,11 +36,11 @@ My target is **Applied AI / AI Engineering**, with particular interest in:
 - **AI quality & reliability** — prompt design, context engineering, evaluation, testing, error handling and iterative improvement.
 - **AI-assisted engineering** — vibe coding, AI pair programming and harness engineering, with human review and verification.
 
-These are my career interests and learning focus, not claims of professional employment or expertise.
+These represent my current career direction and areas of interest, not claims of professional employment or advanced expertise.
 
-<h2 align="left">03 &nbsp; / &nbsp; TECHNICAL TOOLKIT</h2>
+## ✦ 03 / TECHNICAL TOOLKIT
 
-**Programming**
+### Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"/>
@@ -46,7 +48,7 @@ These are my career interests and learning focus, not claims of professional emp
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="28"/>
 </p>
 
-**Data & Machine Learning**
+### Data Analysis & Machine Learning Libraries
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
@@ -54,14 +56,14 @@ These are my career interests and learning focus, not claims of professional emp
 <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
 </p>
 
-**Development Workflow**
+### Development & Version Control
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </p>
 
-<h2 align="left">04 &nbsp; / &nbsp; MACHINE LEARNING & DATA SCIENCE</h2>
+## ✦ 04 / MACHINE LEARNING & DATA SCIENCE
 
 My Machine Learning foundation is organized around the end-to-end model workflow: understanding a problem, preparing data, developing features, training models and interpreting results.
 
@@ -93,7 +95,7 @@ My Machine Learning foundation is organized around the end-to-end model workflow
 
 **Practice stack:** Python · NumPy · Pandas · Scikit-learn
 
-<h2 align="left">05 &nbsp; / &nbsp; APPLIED AI & GENERATIVE AI SYSTEMS</h2>
+## ✦ 05 / APPLIED AI & GENERATIVE AI SYSTEMS
 
 My AI interests focus on turning model capabilities into useful application features. I’m particularly interested in the engineering layers around a model: application logic, context, tools, retrieval, workflow design and output quality.
 
@@ -128,7 +130,7 @@ My AI interests focus on turning model capabilities into useful application feat
 
 **Development practices I explore:** prompt engineering · context engineering · vibe coding · AI pair programming · iterative build/test/review/refine workflows.
 
-<h2 align="left">06 &nbsp; / &nbsp; AI TOOLS, MODELS & PLATFORMS</h2>
+## ✦ 06 / AI TOOLS, MODELS & PLATFORMS
 
 Tools and platforms I use or have explored across AI-assisted development, model experimentation, application projects and structured learning.
 
@@ -177,7 +179,7 @@ Used for structured learning and AI-related courses and credentials.
 
 **How I work with these tools:** define the task, provide relevant context, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. AI output is a suggestion to verify—not automatically correct code.
 
-<h2 align="left">07 &nbsp; / &nbsp; SELECTED PROJECTS</h2>
+## ✦ 07 / SELECTED PROJECTS
 
 <table>
 <tr>
@@ -228,7 +230,7 @@ A console application for recording coding sessions and reviewing practice activ
 </tr>
 </table>
 
-<h2 align="left">08 &nbsp; / &nbsp; ENGINEERING PRINCIPLES</h2>
+## ✦ 08 / ENGINEERING PRINCIPLES
 
 <div align="center">
 
@@ -238,7 +240,7 @@ A console application for recording coding sessions and reviewing practice activ
 
 I aim to understand the requirement before coding, plan the smallest useful implementation, inspect the result, test normal and failure cases, and improve it based on evidence. This is especially important when using AI coding assistants: generated code is a starting point, not proof that a task is complete.
 
-<h2 align="left">09 &nbsp; / &nbsp; GITHUB ACTIVITY</h2>
+## ✦ 09 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -246,7 +248,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </div>
 
-<h2 align="left">10 &nbsp; / &nbsp; VERIFIED CREDENTIALS & CONTINUED LEARNING</h2>
+## ✦ 10 / VERIFIED CREDENTIALS & CONTINUED LEARNING
 
 <details>
 <summary><strong>Explore digital badges, certificates and learning achievements</strong></summary>
@@ -289,7 +291,7 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 </details>
 
-<h2 align="left">11 &nbsp; / &nbsp; CONNECT</h2>
+## ✦ 11 / CONNECT
 
 <div align="center">
 
