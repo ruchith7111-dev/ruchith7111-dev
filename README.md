@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D8FF63&center=true&vCenter=true&width=760&lines=Aspiring+AI+Engineer;Applied+AI+%26+Generative+AI;Building+practical+AI-powered+software;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Automation" alt="Animated role and focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=21&duration=2800&pause=950&color=D8FF63&center=true&vCenter=true&width=820&height=48&lines=ASPIRING+AI+ENGINEER;APPLIED+AI+%26+GENERATIVE+AI;BUILDING+PRACTICAL+AI+APPLICATIONS;LLMs+%7C+RAG+%7C+AI+AGENTS+%7C+AUTOMATION" alt="Animated role and focus"/>
 
 <br/>
 
