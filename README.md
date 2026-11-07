@@ -8,9 +8,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GITHUB-20232A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -43,24 +43,24 @@ These represent my current career direction and areas of interest, not claims of
 ### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="28"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="28"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" height="28"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="28"/>
 </p>
 
 ### Data Analysis & Machine Learning Libraries
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28"/>
-<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="28"/>
+<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="28"/>
 </p>
 
 ### Development & Version Control
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </p>
 
 ## ✦ 04 / MACHINE LEARNING & DATA SCIENCE
@@ -136,13 +136,13 @@ Tools and platforms I use or have explored across AI-assisted development, model
 ### AI Assistants & Coding Agents
 
 <p>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="28"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-202C3A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" height="28"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" height="28"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-1F2328?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="28"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="28"/>
-<img src="https://img.shields.io/badge/Cursor-202020?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="28"/>
-<img src="https://img.shields.io/badge/Antigravity-5266D5?style=for-the-badge" alt="Antigravity" height="28"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" height="28"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-202C3A?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" height="28"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" height="28"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-1F2328?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="28"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" height="28"/>
+<img src="https://img.shields.io/badge/Cursor-202020?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="28"/>
+<img src="https://img.shields.io/badge/Antigravity-5266D5?style=flat-square" alt="Antigravity" height="28"/>
 </p>
 
 Used or explored for understanding concepts, planning tasks, generating and reviewing code, debugging, and iterating on software.
@@ -150,9 +150,9 @@ Used or explored for understanding concepts, planning tasks, generating and revi
 ### Model Ecosystem & Local AI
 
 <p>
-<img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
-<img src="https://img.shields.io/badge/Qwen-5B6CFF?style=for-the-badge" alt="Qwen" height="28"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" height="28"/>
+<img src="https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
+<img src="https://img.shields.io/badge/Qwen-5B6CFF?style=flat-square" alt="Qwen" height="28"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" height="28"/>
 </p>
 
 Exploring model options, local model workflows and API-based integration for AI-powered applications.
@@ -160,9 +160,9 @@ Exploring model options, local model workflows and API-based integration for AI-
 ### Data Platforms & Application Services
 
 <p>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="28"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="28"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" height="28"/>
 </p>
 
 Platforms connected to application data, project experimentation and practical learning.
@@ -170,8 +170,8 @@ Platforms connected to application data, project experimentation and practical l
 ### Learning Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" height="28"/>
-<img src="https://img.shields.io/badge/IBM_SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild" height="28"/>
+<img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost" height="28"/>
+<img src="https://img.shields.io/badge/IBM_SkillsBuild-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM SkillsBuild" height="28"/>
 </p>
 
 Used for structured learning and AI-related courses and credentials.
@@ -179,6 +179,12 @@ Used for structured learning and AI-related courses and credentials.
 **How I work with these tools:** define the task, provide relevant context, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. AI output is a suggestion to verify—not automatically correct code.
 
 ## ✦ 07 / SELECTED PROJECTS
+
+<div align="center">
+  <a href="https://github.com/ruchith7111-dev/Ai_Resume_Parser"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruchith7111-dev&repo=Ai_Resume_Parser&theme=tokyonight&hide_border=true" alt="AI Resume Parser repository card"/></a>
+  <a href="https://github.com/ruchith7111-dev/SkillForge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruchith7111-dev&repo=SkillForge&theme=tokyonight&hide_border=true" alt="SkillForge repository card"/></a>
+  <a href="https://github.com/ruchith7111-dev/CodeWhiz"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruchith7111-dev&repo=CodeWhiz&theme=tokyonight&hide_border=true" alt="CodeWhiz repository card"/></a>
+</div>
 
 <table>
 <tr>
@@ -242,6 +248,17 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 ## ✦ 09 / GITHUB ACTIVITY
 
 <div align="center">
+  <a href="https://github.com/ruchith7111-dev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruchith7111-dev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub profile statistics"/>
+  </a>
+  <a href="https://github.com/ruchith7111-dev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchith7111-dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution graph"/>
 
@@ -294,9 +311,9 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 <div align="center">
 
-<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-ruchith7111--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
-<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-Read_my_writing-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium profile"/></a>
+<a href="https://github.com/ruchith7111-dev"><img src="https://img.shields.io/badge/GitHub-ruchith7111--dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/ruchith-kamalampally-2ba33a311/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+<a href="https://medium.com/@ruchith7111"><img src="https://img.shields.io/badge/Medium-Read_my_writing-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium profile"/></a>
 
 <br/>
 
