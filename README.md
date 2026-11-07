@@ -1,7 +1,3 @@
- <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/238531430?v=4" width="112" alt="Kamalampally Ruchith Reddy profile photo" style="border-radius:50%;"/>
-</p>
-
 <div align="center"> 
 
 <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/ai-engineering-banner.svg" width="100%" alt="Kamalampally Ruchith Reddy — Applied AI and Generative AI"/>
