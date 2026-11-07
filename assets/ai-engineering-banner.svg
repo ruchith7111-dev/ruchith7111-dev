@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
 <title id="title">Kamalampally Ruchith Reddy — AI Engineer | Applied AI and Generative AI</title>
-<desc id="desc">A clean, futuristic AI engineering portfolio banner with a deep navy background, electric blue and purple highlights, bold typography and an abstract neural-network symbol.</desc>
+<desc id="desc">A clean AI engineering portfolio banner with a deep navy background, electric blue and purple highlights, bold typography and an illuminated processor-inspired circuit symbol.</desc>
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080F20"/><stop offset=".56" stop-color="#111A35"/><stop offset="1" stop-color="#20183B"/></linearGradient>
   <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#78D5FF"/><stop offset=".55" stop-color="#347BFF"/><stop offset="1" stop-color="#9A79FF"/></linearGradient>
@@ -23,23 +23,37 @@
   <text x="82" y="395" fill="#9AAACB" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2">CSE UNDERGRADUATE · CLASS OF 2028</text>
   <path d="M1120 350H1535" stroke="url(#purple)" stroke-width="2"/>
   <g transform="translate(1325 202)">
+    <!-- Orbital frame -->
     <circle r="132" fill="none" stroke="#4C8EFF" stroke-opacity=".25" stroke-width="1.5"/>
     <circle r="106" fill="none" stroke="#9B7BFF" stroke-opacity=".48" stroke-width="1.5" stroke-dasharray="3 10"/>
     <circle r="78" fill="#111C3A" fill-opacity=".72" stroke="#4D91FF" stroke-opacity=".62"/>
-    <!-- Abstract neural-network mark: no initials or letterform -->
-    <g fill="none" stroke="url(#blue)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M-55 -30L-20 -54L20 -36L55 -4L33 43L-10 58L-48 28L-55 -30Z" opacity=".95"/>
-      <path d="M-20 -54L-10 2L33 43M20 -36L-10 2L-48 28M55 -4L-10 2" opacity=".8"/>
+
+    <!-- Processor-inspired AI core: deliberately abstract, with no initials -->
+    <g stroke="url(#blue)" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)">
+      <rect x="-48" y="-48" width="96" height="96" rx="15" fill="#14264B" stroke-width="4"/>
+      <rect x="-31" y="-31" width="62" height="62" rx="9" fill="#0B1731" stroke-width="2.5"/>
+      <path d="M-15 -15H15V15H-15Z" fill="none" stroke-width="3.5"/>
+      <path d="M0 -15V-2M0 2V15M-15 0H-2M2 0H15" fill="none" stroke-width="3.5"/>
+      <path d="M-48 -25H-64M-48 0H-67M-48 25H-64M48 -25H64M48 0H67M48 25H64M-25 -48V-64M0 -48V-67M25 -48V-64M-25 48V64M0 48V67M25 48V64" fill="none" stroke-width="4"/>
     </g>
-    <g fill="#D8F4FF" stroke="#2E83FF" stroke-width="3" filter="url(#softGlow)">
-      <circle cx="-55" cy="-30" r="9"/><circle cx="-20" cy="-54" r="8"/><circle cx="20" cy="-36" r="9"/>
-      <circle cx="55" cy="-4" r="8"/><circle cx="33" cy="43" r="9"/><circle cx="-10" cy="58" r="8"/>
-      <circle cx="-48" cy="28" r="8"/><circle cx="-10" cy="2" r="11" fill="#FFFFFF"/>
+    <g fill="#D8F4FF" stroke="#2E83FF" stroke-width="2.5" filter="url(#softGlow)">
+      <circle cx="0" cy="0" r="8" fill="#FFFFFF"/>
+      <circle cx="-64" cy="-25" r="4.5"/><circle cx="-67" cy="0" r="4.5"/><circle cx="-64" cy="25" r="4.5"/>
+      <circle cx="64" cy="-25" r="4.5"/><circle cx="67" cy="0" r="4.5"/><circle cx="64" cy="25" r="4.5"/>
+      <circle cx="-25" cy="-64" r="4.5"/><circle cx="0" cy="-67" r="4.5"/><circle cx="25" cy="-64" r="4.5"/>
+      <circle cx="-25" cy="64" r="4.5"/><circle cx="0" cy="67" r="4.5"/><circle cx="25" cy="64" r="4.5"/>
     </g>
+
+    <!-- Orbit accents -->
     <path d="M-132 0H-113M113 0H132M0 -132V-113M0 113V132" stroke="#76CFFF" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="0" cy="-106" r="6" fill="#78D5FF" filter="url(#softGlow)"/><circle cx="106" cy="0" r="6" fill="#A78BFF" filter="url(#softGlow)"/>
-    <path d="M-132 0A132 132 0 0 1 0 -132" fill="none" stroke="#69C6FF" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/></path>
-    <path d="M-106 0A106 106 0 0 0 0 106" fill="none" stroke="#9D7CFF" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="36s" repeatCount="indefinite"/></path>
+    <circle cx="0" cy="-106" r="6" fill="#78D5FF" filter="url(#softGlow)"/>
+    <circle cx="106" cy="0" r="6" fill="#A78BFF" filter="url(#softGlow)"/>
+    <path d="M-132 0A132 132 0 0 1 0 -132" fill="none" stroke="#69C6FF" stroke-width="3" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-106 0A106 106 0 0 0 0 106" fill="none" stroke="#9D7CFF" stroke-width="2" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="36s" repeatCount="indefinite"/>
+    </path>
   </g>
   <path d="M64 405H1536" stroke="#6B91FF" stroke-opacity=".35"/>
 </g>
