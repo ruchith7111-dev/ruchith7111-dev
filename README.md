@@ -38,28 +38,6 @@ My career interests include:
 
 These represent my current career direction and areas of interest, not claims of professional employment or advanced expertise.
 
-### Industry Notes & AI Engineering Updates
-
-I also keep a short, source-linked reading log of developments relevant to Applied AI, LLM applications and agent engineering.
-
-- **5 Nov 2026 · Android Developers:** Android MCP, on-device agents and multi-app workflows.
-- **4 Nov 2026 · Google Cloud:** architectural patterns for moving AI pilots toward production.
-- **30 Oct 2026 · OpenAI:** Agents API session tools, permission review and context management.
-- **28 Oct 2026 · Android Developers:** coding-agent integrations and agent skills in Android Studio.
-
-[Read my AI Engineering Industry Radar — 7 November 2026](industry-radar/2026-11-07-ai-engineering-industry-radar.md).
-
-### AI Engineering Industry Radar
-
-A curated set of recent industry updates with short engineering takeaways:
-
-- **5 Nov · Android Developers:** Android MCP, on-device agents and agent-enabled app workflows.
-- **4 Nov · Google Cloud:** architecture patterns for moving AI pilots toward production.
-- **30 Oct · OpenAI:** configurable Agents API sessions, tool updates and permission review.
-- **28 Oct · Android Developers:** coding-agent integration and agent skills in Android Studio.
-
-[Read the full AI Engineering Industry Radar — 7 November 2026](industry-radar/2026-11-07-ai-engineering-industry-radar.md).
-
 ## ✦ 03 / TECHNICAL TOOLKIT
 
 ### Programming Languages
