@@ -142,7 +142,7 @@ Tools and platforms I use or have explored across AI-assisted development, model
 <img src="https://img.shields.io/badge/GitHub_Copilot-1F2328?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="28"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" height="28"/>
 <img src="https://img.shields.io/badge/Cursor-202020?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="28"/>
-<img src="https://img.shields.io/badge/Antigravity-5266D5?style=flat-square" alt="Antigravity" height="28"/>
+<a href="https://antigravity.google/"><img src="https://www.antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Google Antigravity logo" height="28"/></a> <img src="https://img.shields.io/badge/Antigravity-5266D5?style=flat-square" alt="Antigravity" height="28"/>
 </p>
 
 Used or explored for understanding concepts, planning tasks, generating and reviewing code, debugging, and iterating on software.
@@ -151,8 +151,8 @@ Used or explored for understanding concepts, planning tasks, generating and revi
 
 <p>
 <img src="https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
-<img src="https://img.shields.io/badge/Qwen-5B6CFF?style=flat-square" alt="Qwen" height="28"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" height="28"/>
+<img src="https://img.shields.io/badge/Qwen-5B50A5?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" height="28"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" height="28"/>
 </p>
 
 Exploring model options, local model workflows and API-based integration for AI-powered applications.
@@ -248,12 +248,29 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 ## ✦ 09 / GITHUB ACTIVITY
 
 <div align="center">
-  <a href="https://github.com/ruchith7111-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruchith7111-dev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub profile statistics"/>
-  </a>
-  <a href="https://github.com/ruchith7111-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchith7111-dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages"/>
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruchith7111-dev&amp;theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruchith7111-dev&amp;theme=github" width="100%" alt="GitHub contribution and activity overview"/>
+</picture>
+
+<table>
+  <tr>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruchith7111-dev&amp;theme=github_dark"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruchith7111-dev&amp;theme=github" width="100%" alt="GitHub stars, commits, pull requests and issues"/>
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruchith7111-dev&amp;theme=github_dark"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruchith7111-dev&amp;theme=github" width="100%" alt="Programming languages across repositories"/>
+      </picture>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
