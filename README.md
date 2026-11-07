@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/238531430?v=4" width="112" alt="Kamalampally Ruchith Reddy profile photo" style="border-radius:50%;"/>
+</p>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ruchith7111-dev/ruchith7111-dev/main/assets/ai-engineering-banner.svg" width="100%" alt="Kamalampally Ruchith Reddy — Applied AI and Generative AI"/>
@@ -65,70 +69,69 @@ These represent my current career direction and areas of interest, not claims of
 
 ## ✦ 04 / MACHINE LEARNING & DATA SCIENCE
 
-My Machine Learning foundation is organized around the end-to-end model workflow: understanding a problem, preparing data, developing features, training models and interpreting results.
+My Machine Learning foundation covers the practical workflow behind predictive models: understanding data, preparing inputs, developing features, training models and evaluating results.
 
 ### Data Understanding & Preparation
 
-- **Exploratory Data Analysis (EDA):** inspect datasets, understand distributions, identify patterns and spot data-quality issues.
-- **Preprocessing:** handle missing values, transform data and prepare numerical and categorical inputs for modelling.
-- **Outlier analysis:** identify unusual observations, consider their causes and choose an appropriate treatment.
+- **Exploratory Data Analysis (EDA):** examine distributions, relationships, patterns and data-quality issues.
+- **Preprocessing:** handle missing values, encode categorical data, scale numerical features and prepare model inputs.
+- **Outlier analysis:** identify unusual observations and choose appropriate treatments based on context.
 
 ### Feature Engineering
 
-- **Feature extraction:** derive useful information from existing raw data.
-- **Feature construction:** create informative variables from existing columns or relationships.
-- **Feature selection:** identify relevant inputs and reduce irrelevant or redundant features.
+- **Feature extraction:** derive useful information from existing data.
+- **Feature construction:** create informative features from existing columns and relationships.
+- **Feature selection:** retain relevant features while reducing noise and redundancy.
 
 ### Algorithms & Model Development
 
-- **Supervised learning:** regression and classification fundamentals.
-- **Unsupervised learning:** clustering concepts and use cases.
-- **Dimensionality reduction:** PCA and LDA concepts.
-- **Model development:** establish training/testing workflows, fit models and compare approaches.
+- **Supervised learning:** regression and classification.
+- **Unsupervised learning:** clustering methods and their use cases.
+- **Dimensionality reduction:** PCA and LDA.
+- **Model development:** split datasets, train models and compare approaches using Scikit-learn.
 
 ### Model Evaluation
 
-- Understand the purpose of train/test separation and validation.
-- Select evaluation metrics appropriate to the problem.
-- Interpret model results rather than relying on a single score.
-- Recognize overfitting, underfitting and generalization issues.
+- Apply training, validation and testing workflows appropriately.
+- Select evaluation metrics based on the problem.
+- Identify overfitting and underfitting, and assess model generalization.
+- Interpret results and recognize model limitations.
 
 **Practice stack:** Python · NumPy · Pandas · Scikit-learn
 
 ## ✦ 05 / APPLIED AI & GENERATIVE AI SYSTEMS
 
-My AI interests focus on turning model capabilities into useful application features. I’m particularly interested in the engineering layers around a model: application logic, context, tools, retrieval, workflow design and output quality.
+My focus is on building useful AI-powered applications by connecting language models with software, data, APIs, tools and reliable workflows.
 
 ### LLM Application Engineering
 
-- Integrate language models into software through model APIs.
-- Design prompts and structured outputs around a specific application task.
+- Integrate language models through APIs.
+- Design task-focused prompts and structured outputs.
 - Connect model responses to application logic and user workflows.
-- Manage context and handle incomplete, unexpected or invalid responses.
+- Manage context, errors and unexpected model responses.
 
 ### Retrieval-Augmented Generation (RAG)
 
-- Understand how external knowledge can be prepared and supplied to a language model.
-- Explore document ingestion, chunking, embeddings and retrieval as parts of a knowledge pipeline.
-- Examine how retrieved context can improve relevance and grounding.
-- Consider retrieval quality and source relevance when evaluating responses.
+- Build knowledge pipelines through document ingestion and processing.
+- Apply chunking, embeddings and retrieval to prepare external knowledge.
+- Connect retrieved information to language models for grounded responses.
+- Evaluate retrieval relevance and response quality.
 
 ### AI Agents & Workflow Automation
 
-- Explore tool calling and function calling so models can interact with external capabilities.
-- Break larger tasks into smaller steps and coordinate multi-step workflows.
-- Understand how agents use tools, observe results and decide what to do next.
-- Connect model-driven workflows with APIs and application services.
+- Use tool and function calling to connect models with external services.
+- Organize tasks into controlled, multi-step workflows.
+- Use tool results to guide subsequent actions.
+- Integrate AI workflows with APIs and application services.
 
 ### Evaluation, Reliability & AI Engineering
 
-- Validate generated outputs before using them in an application.
-- Test normal cases, edge cases and failure paths.
-- Use clear instructions, relevant context and constraints to guide model behaviour.
-- Explore evaluation, guardrails, error handling and human review.
-- Study harness engineering: the tools, tests and feedback loops surrounding an AI workflow.
+- Test AI outputs for relevance, correctness and consistency.
+- Validate structured responses and handle edge cases.
+- Apply error handling, guardrails and human review where appropriate.
+- Understand harness engineering through tools, tests, logs and feedback loops that improve AI workflow reliability.
 
-**Development practices I explore:** prompt engineering · context engineering · vibe coding · AI pair programming · iterative build/test/review/refine workflows.
+**Development practices:** Prompt engineering · Context engineering · AI workflow automation · Vibe coding · AI pair programming · Harness engineering
 
 ## ✦ 06 / AI TOOLS, MODELS & PLATFORMS
 
