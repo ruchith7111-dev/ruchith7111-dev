@@ -178,6 +178,17 @@ Used for structured learning and AI-related courses and credentials.
 
 **How I work with these tools:** define the task, provide relevant context, compare implementation options, inspect generated code, debug, test normal and failure cases, and refine the result. AI output is a suggestion to verify—not automatically correct code.
 
+### Open-source AI Engineering Repositories
+
+Selected external projects worth studying for my Applied AI and Generative AI direction. These are **upstream learning references, not projects authored by me**.
+
+| Repository | What it is useful for |
+|:--|:--|
+| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Building tool-using agents with handoffs, guardrails, sessions and tracing. |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | Designing stateful, long-running agent workflows with durable execution and human oversight. |
+| [Google ADK for Python](https://github.com/google/adk-python) | Developing, evaluating and deploying code-first agent systems, including multi-agent workflows. |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | Building document-processing, retrieval-augmented generation (RAG) and agentic applications. |
+
 ## ✦ 07 / SELECTED PROJECTS
 
 <div align="center">
