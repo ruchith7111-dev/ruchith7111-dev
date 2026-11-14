@@ -294,18 +294,40 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 
 ## ✦ 10 / VERIFIED CREDENTIALS & CONTINUED LEARNING
 
-<details>
-<summary><strong>Explore digital badges, certificates and learning achievements</strong></summary>
-
 ### Verified Digital Badges
 
-**Credly**
+*Select a badge to open its issuer-hosted verification page.*
 
-- [Foundations in Generative AI](https://www.credly.com/badges/aae74aa1-d7c3-4465-a0fa-3019b5323a12/public_url) — IBM SkillsBuild · Issued 22 May 2026
-- [Additional Credly badge](https://www.credly.com/badges/f66222e7-2ea9-4085-99ea-0ffe2dd2822a/public_url) — open the badge record
-- [Additional Credly badge](https://www.credly.com/badges/fadc4d39-38c3-4e4d-a0f2-424309f20be9/public_url) — open the badge record
+**Credly · IBM SkillsBuild**
 
-**Google Cloud Skills Boost · July 2026**
+<p>
+  <a href="https://www.credly.com/badges/aae74aa1-d7c3-4465-a0fa-3019b5323a12/public_url">
+    <img src="https://img.shields.io/badge/Foundations_in_Generative_AI-IBM_SkillsBuild-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="Foundations in Generative AI — IBM SkillsBuild"/>
+  </a>
+  <a href="https://www.credly.com/badges/f66222e7-2ea9-4085-99ea-0ffe2dd2822a/public_url">
+    <img src="https://img.shields.io/badge/Credly_Digital_Badge-View_Credential-5B6573?style=flat-square" alt="Additional Credly digital badge — view credential"/>
+  </a>
+  <a href="https://www.credly.com/badges/fadc4d39-38c3-4e4d-a0f2-424309f20be9/public_url">
+    <img src="https://img.shields.io/badge/Credly_Digital_Badge-View_Credential-5B6573?style=flat-square" alt="Additional Credly digital badge — view credential"/>
+  </a>
+</p>
+
+- **Foundations in Generative AI** — IBM SkillsBuild · Issued 22 May 2026
+- Two additional Credly badge records are linked above; their exact titles are not displayed here because they have not been confirmed.
+
+**Google Cloud Skills Boost**
+
+<p>
+  <a href="https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25272023">
+    <img src="https://img.shields.io/badge/Introduction_to_Responsible_AI-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Introduction to Responsible AI — Google Cloud Skills Boost"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25271933">
+    <img src="https://img.shields.io/badge/Introduction_to_Large_Language_Models-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Introduction to Large Language Models — Google Cloud Skills Boost"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25271659">
+    <img src="https://img.shields.io/badge/Introduction_to_Generative_AI-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Introduction to Generative AI — Google Cloud Skills Boost"/>
+  </a>
+</p>
 
 - [Introduction to Responsible AI](https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25272023)
 - [Introduction to Large Language Models](https://www.skills.google/public_profiles/353db11c-77ad-4c07-96fc-92776862955a/badges/25271933)
@@ -333,7 +355,6 @@ I aim to understand the requirement before coding, plan the smallest useful impl
 - Foundations in Generative AI
 - Build Your First Chatbot
 
-</details>
 
 ## ✦ 11 / CONNECT
 
